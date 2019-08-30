@@ -1,3 +1,5 @@
+![プロジェクト・桜](https://repository-images.githubusercontent.com/139385299/b4ea1d80-cb43-11e9-9dbb-92b03d8a454d)
+
 # プロジェクト・桜
 
 AI 彼女・彼氏　プロジェクト…
