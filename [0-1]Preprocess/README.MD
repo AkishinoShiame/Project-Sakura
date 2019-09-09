@@ -7,6 +7,7 @@
   
 [LINK: 【技術解説】形態素解析とは？MeCabインストール手順からPythonでの実行例まで](https://mieruca-ai.com/ai/morphological_analysis_mecab/)  
 [LINK: MeCab: Yet Another Part-of-Speech and Morphological Analyzer](https://taku910.github.io/mecab/)  
+[LINK: MeCab-Pythonで分かち書きと形態素解析](http://testpy.hatenablog.com/entry/2016/10/04/010000)
   
   
 ```python
