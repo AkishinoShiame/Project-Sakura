@@ -21,8 +21,8 @@ if __name__ == '__main__':
     process = CrawlerProcess(
         settings={
             'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)',
-            'FEED_FORMAT': 'csv',
-            'FEED_URI': 'AnimeRawList.csv'
+            'FEED_FORMAT': 'json',
+            'FEED_URI': 'AnimeRawList.json'
         }
     )
     process.crawl(CrawlAnimeList)
