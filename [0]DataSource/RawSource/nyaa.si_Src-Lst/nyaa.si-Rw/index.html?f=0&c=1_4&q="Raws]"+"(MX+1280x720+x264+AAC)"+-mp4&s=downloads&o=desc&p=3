@@ -1,0 +1,1864 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>&#34;Raws]&#34; &#34;(MX 1280x720 x264 AAC)&#34; -mp4 :: Nyaa</title>
+
+		<meta name="viewport" content="width=480px">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<link rel="shortcut icon" type="image/png" href="static/favicon.png">
+		<link rel="icon" type="image/png" href="static/favicon.png">
+		<link rel="mask-icon" href="https://nyaa.si/static/pinned-tab.svg" color="#3582F7">
+		<link rel="alternate" type="application/rss+xml" href="https://nyaa.si/?page=rss&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;c=1_4&amp;f=0" />
+
+		<meta property="og:site_name" content="Nyaa">
+		<meta property="og:title" content="&#34;Raws]&#34; &#34;(MX 1280x720 x264 AAC)&#34; -mp4 :: Nyaa">
+		<meta property="og:image" content="/static/img/avatar/default.png">
+<meta property="og:description" content="Search for '&#34;Raws]&#34; &#34;(MX 1280x720 x264 AAC)&#34; -mp4'">
+
+		<!-- Bootstrap core CSS -->
+		<!--
+			Note: This has been customized at http://getbootstrap.com/customize/ to
+			set the column breakpoint to tablet mode, instead of mobile. This is to
+			make the navbar not look awful on tablets.
+		-->
+		<link href="static/css/bootstrap.min.css?t=1494621267" rel="stylesheet" id="bsThemeLink">
+		<link href="static/css/bootstrap-xl-mod.css?t=1495603805" rel="stylesheet">
+		<!--
+			This theme changer script needs to be inline and right under the above stylesheet link to prevent FOUC (Flash Of Unstyled Content)
+			Development version is commented out in static/js/main.js at the bottom of the file
+		-->
+		<script>function toggleDarkMode(){"dark"===localStorage.getItem("theme")?setThemeLight():setThemeDark()}function setThemeDark(){bsThemeLink.href="/static/css/bootstrap-dark.min.css?t=1495008187",localStorage.setItem("theme","dark"),document.body!==null&&document.body.classList.add('dark')}function setThemeLight(){bsThemeLink.href="/static/css/bootstrap.min.css?t=1494621267",localStorage.setItem("theme","light"),document.body!==null&&document.body.classList.remove('dark')}if("undefined"!=typeof Storage){var bsThemeLink=document.getElementById("bsThemeLink");"dark"===localStorage.getItem("theme")&&setThemeDark()}</script>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.2/css/bootstrap-select.min.css" integrity="sha256-an4uqLnVJ2flr7w0U74xiF4PJjO2N5Df91R2CUmCLCA=" crossorigin="anonymous" />
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+
+		<!-- Custom styles for this template -->
+		<link href="static/css/main.css?t=1565727484" rel="stylesheet">
+
+		<!-- Core JavaScript -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha256-U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8=" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/8.3.1/markdown-it.min.js" integrity="sha256-3WZyZQOe+ql3pLo90lrkRtALrlniGdnf//gRpW0UQks=" crossorigin="anonymous"></script>
+		<!-- Modified to not apply border-radius to selectpickers and stuff so our navbar looks cool -->
+		<script src="static/js/bootstrap-select.min.js?t=1522850768"></script>
+		<script src="static/js/main.min.js?t=1565727484"></script>
+
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-107733743-2"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments)};
+			gtag('js', new Date());
+
+			gtag('config', 'UA-107733743-2');
+		</script>
+
+		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+		<!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+			<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+		<link rel="search" type="application/opensearchdescription+xml" title="Nyaa.si" href="https://nyaa.si/static/search.xml">
+	</head>
+	<body>
+		<!-- Fixed navbar -->
+		<nav class="navbar navbar-default navbar-static-top navbar-inverse">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="https://nyaa.si/">Nyaa</a>
+				</div><!--/.navbar-header -->
+				<div id="navbar" class="navbar-collapse collapse">
+					<ul class="nav navbar-nav">
+						<li ><a href="https://nyaa.si/upload">Upload</a></li>
+						<li class="dropdown">
+							<a href="index.html?f=0&amp;c=1_4&amp;q=&quot;Raws]&quot;+&quot;(MX+1280x720+x264+AAC)&quot;+-mp4&amp;s=downloads&amp;o=desc&amp;p=3#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+								Info
+								<span class="caret"></span>
+							</a>
+							<ul class="dropdown-menu">
+								<li ><a href="https://nyaa.si/rules">Rules</a></li>
+								<li ><a href="https://nyaa.si/help">Help</a></li>
+								<li><a href="https://github.com/nyaadevs/nyaa">Github</a></li>
+							</ul>
+						</li>
+						<li><a href="https://nyaa.si/?page=rss&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;c=1_4&amp;f=0">RSS</a></li>
+						<li><a href="https://twitter.com/NyaaV2">Twitter</a></li>
+						<li><a href="https://sukebei.nyaa.si/">Fap</a></li>
+					</ul>
+
+					<ul class="nav navbar-nav navbar-right">
+						<li class="dropdown">
+							<a href="index.html?f=0&amp;c=1_4&amp;q=&quot;Raws]&quot;+&quot;(MX+1280x720+x264+AAC)&quot;+-mp4&amp;s=downloads&amp;o=desc&amp;p=3#" class="dropdown-toggle visible-lg visible-sm visible-xs" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+								<i class="fa fa-user fa-fw"></i>
+								Guest
+								<span class="caret"></span>
+							</a>
+							<a href="index.html?f=0&amp;c=1_4&amp;q=&quot;Raws]&quot;+&quot;(MX+1280x720+x264+AAC)&quot;+-mp4&amp;s=downloads&amp;o=desc&amp;p=3#" class="dropdown-toggle hidden-lg hidden-sm hidden-xs" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+								<i class="fa fa-user fa-fw"></i>
+								<span class="caret"></span>
+							</a>
+							<ul class="dropdown-menu">
+								<li>
+									<a href="https://nyaa.si/login">
+										<i class="fa fa-sign-in fa-fw"></i>
+										Login
+									</a>
+								</li>
+								<li>
+									<a href="https://nyaa.si/register">
+										<i class="fa fa-pencil fa-fw"></i>
+										Register
+									</a>
+								</li>
+							</ul>
+						</li>
+					</ul>
+
+
+
+					<div class="search-container visible-xs visible-sm">
+						<form class="navbar-form navbar-right form" action="https://nyaa.si/" method="get">
+
+							<input type="text" class="form-control" name="q" placeholder="Search..." value="&#34;Raws]&#34; &#34;(MX 1280x720 x264 AAC)&#34; -mp4">
+							<br>
+
+							<select class="form-control" title="Filter" data-width="120px" name="f">
+								<option value="0" title="No filter" selected>No filter</option>
+								<option value="1" title="No remakes" >No remakes</option>
+								<option value="2" title="Trusted only" >Trusted only</option>
+							</select>
+
+							<br>
+
+							<select class="form-control" title="Category" data-width="200px" name="c">
+								<option value="0_0" title="All categories" selected>
+									All categories
+								</option>
+								<option value="1_0" title="Anime" >
+									Anime
+								</option>
+								<option value="1_1" title="Anime - AMV" >
+									- Anime Music Video
+								</option>
+								<option value="1_2" title="Anime - English" >
+									- English-translated
+								</option>
+								<option value="1_3" title="Anime - Non-English" >
+									- Non-English-translated
+								</option>
+								<option value="1_4" title="Anime - Raw" selected>
+									- Raw
+								</option>
+								<option value="2_0" title="Audio" >
+									Audio
+								</option>
+								<option value="2_1" title="Audio - Lossless" >
+									- Lossless
+								</option>
+								<option value="2_2" title="Audio - Lossy" >
+									- Lossy
+								</option>
+								<option value="3_0" title="Literature" >
+									Literature
+								</option>
+								<option value="3_1" title="Literature - English" >
+									- English-translated
+								</option>
+								<option value="3_2" title="Literature - Non-English" >
+									- Non-English-translated
+								</option>
+								<option value="3_3" title="Literature - Raw" >
+									- Raw
+								</option>
+								<option value="4_0" title="Live Action" >
+									Live Action
+								</option>
+								<option value="4_1" title="Live Action - English" >
+									- English-translated
+								</option>
+								<option value="4_2" title="Live Action - Idol/PV" >
+									- Idol/Promotional Video
+								</option>
+								<option value="4_3" title="Live Action - Non-English" >
+									- Non-English-translated
+								</option>
+								<option value="4_4" title="Live Action - Raw" >
+									- Raw
+								</option>
+								<option value="5_0" title="Pictures" >
+									Pictures
+								</option>
+								<option value="5_1" title="Pictures - Graphics" >
+									- Graphics
+								</option>
+								<option value="5_2" title="Pictures - Photos" >
+									- Photos
+								</option>
+								<option value="6_0" title="Software" >
+									Software
+								</option>
+								<option value="6_1" title="Software - Apps" >
+									- Applications
+								</option>
+								<option value="6_2" title="Software - Games" >
+									- Games
+								</option>
+							</select>
+
+							<br>
+
+							<button class="btn btn-primary form-control" type="submit">
+								<i class="fa fa-search fa-fw"></i> Search
+							</button>
+						</form>
+					</div><!--/.search-container -->
+
+					<form class="navbar-form navbar-right form" action="https://nyaa.si/" method="get">
+						<div class="input-group search-container hidden-xs hidden-sm">
+							<div class="input-group-btn nav-filter" id="navFilter-criteria">
+								<select class="selectpicker show-tick" title="Filter" data-width="120px" name="f">
+									<option value="0" title="No filter" selected>No filter</option>
+									<option value="1" title="No remakes" >No remakes</option>
+									<option value="2" title="Trusted only" >Trusted only</option>
+								</select>
+							</div>
+
+							<div class="input-group-btn nav-filter" id="navFilter-category">
+								<!--
+									On narrow viewports, there isn't enough room to fit the full stuff in the selectpicker, so we show a full-width one on wide viewports, but squish it on narrow ones.
+								-->
+								<select class="selectpicker show-tick" title="Category" data-width="130px" name="c">
+									<option value="0_0" title="All categories" selected>
+										All categories
+									</option>
+									<option value="1_0" title="Anime" >
+										Anime
+									</option>
+									<option value="1_1" title="Anime - AMV" >
+										- Anime Music Video
+									</option>
+									<option value="1_2" title="Anime - English" >
+										- English-translated
+									</option>
+									<option value="1_3" title="Anime - Non-English" >
+										- Non-English-translated
+									</option>
+									<option value="1_4" title="Anime - Raw" selected>
+										- Raw
+									</option>
+									<option value="2_0" title="Audio" >
+										Audio
+									</option>
+									<option value="2_1" title="Audio - Lossless" >
+										- Lossless
+									</option>
+									<option value="2_2" title="Audio - Lossy" >
+										- Lossy
+									</option>
+									<option value="3_0" title="Literature" >
+										Literature
+									</option>
+									<option value="3_1" title="Literature - English" >
+										- English-translated
+									</option>
+									<option value="3_2" title="Literature - Non-English" >
+										- Non-English-translated
+									</option>
+									<option value="3_3" title="Literature - Raw" >
+										- Raw
+									</option>
+									<option value="4_0" title="Live Action" >
+										Live Action
+									</option>
+									<option value="4_1" title="Live Action - English" >
+										- English-translated
+									</option>
+									<option value="4_2" title="Live Action - Idol/PV" >
+										- Idol/Promotional Video
+									</option>
+									<option value="4_3" title="Live Action - Non-English" >
+										- Non-English-translated
+									</option>
+									<option value="4_4" title="Live Action - Raw" >
+										- Raw
+									</option>
+									<option value="5_0" title="Pictures" >
+										Pictures
+									</option>
+									<option value="5_1" title="Pictures - Graphics" >
+										- Graphics
+									</option>
+									<option value="5_2" title="Pictures - Photos" >
+										- Photos
+									</option>
+									<option value="6_0" title="Software" >
+										Software
+									</option>
+									<option value="6_1" title="Software - Apps" >
+										- Applications
+									</option>
+									<option value="6_2" title="Software - Games" >
+										- Games
+									</option>
+								</select>
+							</div>
+							<input type="text" class="form-control search-bar" name="q" placeholder="Search..." value="&#34;Raws]&#34; &#34;(MX 1280x720 x264 AAC)&#34; -mp4" />
+							<div class="input-group-btn search-btn">
+								<button class="btn btn-primary" type="submit">
+									<i class="fa fa-search fa-fw"></i>
+								</button>
+							</div>
+						</div>
+					</form>
+				</div><!--/.nav-collapse -->
+			</div><!--/.container -->
+		</nav>
+
+		<div class="container">
+
+
+
+
+
+<div class="table-responsive">
+	<table class="table table-bordered table-hover table-striped torrent-list">
+		<thead>
+			<tr>
+				<th class="hdr-category text-center" style="width:80px;">Category</th>
+				<th class="hdr-name" style="width:auto;">Name</th>
+				<th class="hdr-comments sorting text-center" title="Comments" style="width:50px;"><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=comments&amp;o=desc"></a><i class="fa fa-comments-o"></i></th>
+				<th class="hdr-link text-center" style="width:70px;">Link</th>
+				<th class="hdr-size sorting text-center" style="width:100px;"><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=size&amp;o=desc"></a>Size</th>
+				<th class="hdr-date sorting text-center" title="In UTC" style="width:140px;"><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=id&amp;o=desc"></a>Date</th>
+
+				<th class="hdr-seeders sorting text-center" title="Seeders" style="width:50px;"><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=seeders&amp;o=desc"></a><i class="fa fa-arrow-up" aria-hidden="true"></i></th>
+				<th class="hdr-leechers sorting text-center" title="Leechers" style="width:50px;"><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=leechers&amp;o=desc"></a><i class="fa fa-arrow-down" aria-hidden="true"></i></th>
+				<th class="hdr-downloads sorting_desc text-center" title="Completed downloads" style="width:50px;"><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=downloads&amp;o=asc"></a><i class="fa fa-check" aria-hidden="true"></i></th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/670465" title="[Ohys-Raws] Tokyo Ghoul A (MX 1280x720 x264 AAC)">[Ohys-Raws] Tokyo Ghoul A (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/670465.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:23e37448992d7697746609ab6cd5d406aeab2033&amp;dn=%5BOhys-Raws%5D%20Tokyo%20Ghoul%20A%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">3.6 GiB</td>
+				<td class="text-center" data-timestamp="1427367720">2015-03-26 11:02</td>
+
+				<td class="text-center">2</td>
+				<td class="text-center">0</td>
+				<td class="text-center">1289</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/326762" title="[Leopard-Raws] Jormungand (MX 1280x720 x264 AAC)[rev]">[Leopard-Raws] Jormungand (MX 1280x720 x264 AAC)[rev]</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/326762.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:eae4d3ad2cc162ae5cbed2bed39cdc5de9a680c8&amp;dn=%5BLeopard-Raws%5D%20Jormungand%20%28MX%201280x720%20x264%20AAC%29%5Brev%5D&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">4.8 GiB</td>
+				<td class="text-center" data-timestamp="1340884440">2012-06-28 11:54</td>
+
+				<td class="text-center">2</td>
+				<td class="text-center">1</td>
+				<td class="text-center">1280</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/1036224" title="[Ohys-Raws] Gin no Guardian 2 (MX 1280x720 x264 AAC)">[Ohys-Raws] Gin no Guardian 2 (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/1036224.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:693de68ad56451fc06fec735c088563577835263&amp;dn=%5BOhys-Raws%5D%20Gin%20no%20Guardian%202%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">2.5 GiB</td>
+				<td class="text-center" data-timestamp="1526127218">2018-05-12 12:13</td>
+
+				<td class="text-center">1</td>
+				<td class="text-center">1</td>
+				<td class="text-center">1265</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/823523" title="[Ohys-Raws] Terra Formars - Revenge (MX 1280x720 x264 AAC)">[Ohys-Raws] Terra Formars - Revenge (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/823523.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:13cf75a1390f611d87f890188f7c2dd4f24445b3&amp;dn=%5BOhys-Raws%5D%20Terra%20Formars%20-%20Revenge%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">5.6 GiB</td>
+				<td class="text-center" data-timestamp="1466769240">2016-06-24 11:54</td>
+
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+				<td class="text-center">1209</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/638174" title="[Leopard-Raws] Yama no Susume - Second Season (MX 1280x720 x264 AAC)">[Leopard-Raws] Yama no Susume - Second Season (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/638174.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:0be3dff86d38ab4048d377fcb88d865c29d576dd&amp;dn=%5BLeopard-Raws%5D%20Yama%20no%20Susume%20-%20Second%20Season%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">4.6 GiB</td>
+				<td class="text-center" data-timestamp="1419419280">2014-12-24 11:08</td>
+
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+				<td class="text-center">1201</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/882756" title="[Ohys-Raws] Teekyuu 8 (MX 1280x720 x264 AAC)">[Ohys-Raws] Teekyuu 8 (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/882756.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:5948218166ee375c87e8ccd2c3dab58692f50747&amp;dn=%5BOhys-Raws%5D%20Teekyuu%208%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">639.0 MiB</td>
+				<td class="text-center" data-timestamp="1482308100">2016-12-21 08:15</td>
+
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+				<td class="text-center">1199</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/737569" title="[Leopard-Raws] Fate - Kaleid  Liner Prisma Illya Zwei Herz! (MX 1280x720 x264 AAC)">[Leopard-Raws] Fate - Kaleid  Liner Prisma Illya Zwei Herz! (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/737569.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:3b759f78f1be32fc322ab86041f5afa35d17bd8c&amp;dn=%5BLeopard-Raws%5D%20Fate%20-%20Kaleid%20%20Liner%20Prisma%20Illya%20Zwei%20Herz%21%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">5.0 GiB</td>
+				<td class="text-center" data-timestamp="1443198720">2015-09-25 16:32</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">1180</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/1206078" title="[Ohys-Raws] Ensemble Stars! (MX 1280x720 x264 AAC)">[Ohys-Raws] Ensemble Stars! (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/1206078.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:cfa8dcf51dbee892325c6e904bf1f2b0efaf15e7&amp;dn=%5BOhys-Raws%5D%20Ensemble%20Stars%21%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">9.1 GiB</td>
+				<td class="text-center" data-timestamp="1577025839">2019-12-22 14:43</td>
+
+				<td class="text-center">6</td>
+				<td class="text-center">7</td>
+				<td class="text-center">1178</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/537395" title="[Leopard-Raws] Seitokai Yakuindomo&#39; (MX 1280x720 x264 AAC)">[Leopard-Raws] Seitokai Yakuindomo&#39; (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/537395.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:2bff0ef245d37f4851b87e73e0ddaa0790cc9133&amp;dn=%5BLeopard-Raws%5D%20Seitokai%20Yakuindomo%27%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">4.3 GiB</td>
+				<td class="text-center" data-timestamp="1396107540">2014-03-29 15:39</td>
+
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+				<td class="text-center">1176</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/963096" title="[Ohys-Raws] Ikemen Sengoku Toki o Kakeru ga Koi wa Hajimaranai (MX 1280x720 x264 AAC)">[Ohys-Raws] Ikemen Sengoku Toki o Kakeru ga Koi wa Hajimaranai (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/963096.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:02a19da5ce15b0992f906371c1e6977e3aba8d51&amp;dn=%5BOhys-Raws%5D%20Ikemen%20Sengoku%20Toki%20o%20Kakeru%20ga%20Koi%20wa%20Hajimaranai%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">1.1 GiB</td>
+				<td class="text-center" data-timestamp="1506518782">2017-09-27 13:26</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">4</td>
+				<td class="text-center">1173</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/503811" title="[Leopard-Raws] Kyoukai no Kanata (MX 1280x720 x264 AAC)">[Leopard-Raws] Kyoukai no Kanata (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/503811.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:c448343db62c5e0aeab089eeaf64f65ff8e2f264&amp;dn=%5BLeopard-Raws%5D%20Kyoukai%20no%20Kanata%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">3.8 GiB</td>
+				<td class="text-center" data-timestamp="1387437840">2013-12-19 07:24</td>
+
+				<td class="text-center">3</td>
+				<td class="text-center">0</td>
+				<td class="text-center">1127</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/988570" title="[Ohys-Raws] Omiai Aite wa Oshiego, Tsuyoki na, Mondaiji. (MX 1280x720 x264 AAC)">[Ohys-Raws] Omiai Aite wa Oshiego, Tsuyoki na, Mondaiji. (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/988570.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:ca0ece70c11c95825b57b9c327f532ae853a33db&amp;dn=%5BOhys-Raws%5D%20Omiai%20Aite%20wa%20Oshiego%2C%20Tsuyoki%20na%2C%20Mondaiji.%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">500.5 MiB</td>
+				<td class="text-center" data-timestamp="1513527168">2017-12-17 16:12</td>
+
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+				<td class="text-center">1122</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/478008" title="[Leopard-Raws] Uchouten Kazoku (MX 1280x720 x264 AAC)">[Leopard-Raws] Uchouten Kazoku (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/478008.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:9e28d64b3525ffad256269968d4eabc87f56f088&amp;dn=%5BLeopard-Raws%5D%20Uchouten%20Kazoku%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">3.4 GiB</td>
+				<td class="text-center" data-timestamp="1380454380">2013-09-29 11:33</td>
+
+				<td class="text-center">1</td>
+				<td class="text-center">1</td>
+				<td class="text-center">1121</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/855222" title="[Ohys-Raws] Nejimaki Seirei Senki - Tenkyou no Alderamin (MX 1280x720 x264 AAC)">[Ohys-Raws] Nejimaki Seirei Senki - Tenkyou no Alderamin (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/855222.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:e202b5be865875f0fa27034000706917d05e2d8a&amp;dn=%5BOhys-Raws%5D%20Nejimaki%20Seirei%20Senki%20-%20Tenkyou%20no%20Alderamin%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">4.2 GiB</td>
+				<td class="text-center" data-timestamp="1475275500">2016-09-30 22:45</td>
+
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+				<td class="text-center">1093</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/853170" title="[Ohys-Raws] Hitori no Shita - The Outcast (MX 1280x720 x264 AAC)">[Ohys-Raws] Hitori no Shita - The Outcast (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/853170.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:c589a26e1839745d8e7170088f273d805ad75567&amp;dn=%5BOhys-Raws%5D%20Hitori%20no%20Shita%20-%20The%20Outcast%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">3.5 GiB</td>
+				<td class="text-center" data-timestamp="1474703940">2016-09-24 07:59</td>
+
+				<td class="text-center">2</td>
+				<td class="text-center">1</td>
+				<td class="text-center">1078</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/599926" title="[Leopard-Raws] Aldnoah.Zero (MX 1280x720 x264 AAC)">[Leopard-Raws] Aldnoah.Zero (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/599926.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:d1ddd04ebb404350c16346e25e502eaa57a8c3d4&amp;dn=%5BLeopard-Raws%5D%20Aldnoah.Zero%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">4.4 GiB</td>
+				<td class="text-center" data-timestamp="1411215420">2014-09-20 12:17</td>
+
+				<td class="text-center">2</td>
+				<td class="text-center">0</td>
+				<td class="text-center">1043</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/990988" title="[Ohys-Raws] Love Kome We Love Rice 2 (MX 1280x720 x264 AAC)">[Ohys-Raws] Love Kome We Love Rice 2 (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/990988.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:9dc1fafe66c3d5b4141f377282fe5657bef3f9c1&amp;dn=%5BOhys-Raws%5D%20Love%20Kome%20We%20Love%20Rice%202%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">704.5 MiB</td>
+				<td class="text-center" data-timestamp="1514219232">2017-12-25 16:27</td>
+
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+				<td class="text-center">1038</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/536371" title="[Leopard-Raws] Chuunibyou demo Koi ga Shitai! Ren (MX 1280x720 x264 AAC)">[Leopard-Raws] Chuunibyou demo Koi ga Shitai! Ren (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/536371.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:347059624254920ae43c5c1a86a0d6dfd3cd9a64&amp;dn=%5BLeopard-Raws%5D%20Chuunibyou%20demo%20Koi%20ga%20Shitai%21%20Ren%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">3.7 GiB</td>
+				<td class="text-center" data-timestamp="1395838860">2014-03-26 13:01</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">2</td>
+				<td class="text-center">1038</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/798516" title="[Ohys-Raws] Musaigen no Phantom World (MX 1280x720 x264 AAC)">[Ohys-Raws] Musaigen no Phantom World (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/798516.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:d5556d04ec539456e395edce245ac7c661644abe&amp;dn=%5BOhys-Raws%5D%20Musaigen%20no%20Phantom%20World%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">5.9 GiB</td>
+				<td class="text-center" data-timestamp="1459335360">2016-03-30 10:56</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">1034</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/1130095" title="[Ohys-Raws] Ame-iro Cocoa Side G (MX 1280x720 x264 AAC)">[Ohys-Raws] Ame-iro Cocoa Side G (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/1130095.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:9fd63d35ad0dcda2fb97ba95de43cd6b233eda7d&amp;dn=%5BOhys-Raws%5D%20Ame-iro%20Cocoa%20Side%20G%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">436.3 MiB</td>
+				<td class="text-center" data-timestamp="1553618894">2019-03-26 16:48</td>
+
+				<td class="text-center">2</td>
+				<td class="text-center">0</td>
+				<td class="text-center">1013</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/769625" title="[Ohys-Raws] Working!!! v2 (MX 1280x720 x264 AAC)">[Ohys-Raws] Working!!! v2 (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/769625.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:3285da440c3375959fbd7fbef9ce92284284d456&amp;dn=%5BOhys-Raws%5D%20Working%21%21%21%20v2%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">3.7 GiB</td>
+				<td class="text-center" data-timestamp="1451133300">2015-12-26 12:35</td>
+
+				<td class="text-center">1</td>
+				<td class="text-center">3</td>
+				<td class="text-center">1007</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/537031" title="[Leopard-Raws] Strike the Blood (MX 1280x720 x264 AAC)">[Leopard-Raws] Strike the Blood (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/537031.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:e19ec5e043a853644a46e826ff61a0830bef0fc0&amp;dn=%5BLeopard-Raws%5D%20Strike%20the%20Blood%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">8.3 GiB</td>
+				<td class="text-center" data-timestamp="1396012080">2014-03-28 13:08</td>
+
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+				<td class="text-center">1006</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/797626" title="[Leopard-Raws] Utawarerumono - Itsuwari no Kamen (MX 1280x720 x264 AAC)">[Leopard-Raws] Utawarerumono - Itsuwari no Kamen (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/797626.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:4bc8670fde6db29b14c1242ee360b25973927d52&amp;dn=%5BLeopard-Raws%5D%20Utawarerumono%20-%20Itsuwari%20no%20Kamen%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">7.5 GiB</td>
+				<td class="text-center" data-timestamp="1459054680">2016-03-27 04:58</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">973</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/1121669" title="[Ohys-Raws] Papa Datte, Shitai (MX 1280x720 x264 AAC)">[Ohys-Raws] Papa Datte, Shitai (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/1121669.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:9660a7ebc271ad31030af09a8d97e9e9c0c3bef2&amp;dn=%5BOhys-Raws%5D%20Papa%20Datte%2C%20Shitai%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">289.0 MiB</td>
+				<td class="text-center" data-timestamp="1551025216">2019-02-24 16:20</td>
+
+				<td class="text-center">2</td>
+				<td class="text-center">1</td>
+				<td class="text-center">968</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/671568" title="[Leopard-Raws] Cross Ange - Tenshi to Ryuu no Rondo (MX 1280x720 x264 AAC)">[Leopard-Raws] Cross Ange - Tenshi to Ryuu no Rondo (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/671568.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:664d992e9d09f1dc55f5f6f5321dcfbf9c1ff006&amp;dn=%5BLeopard-Raws%5D%20Cross%20Ange%20-%20Tenshi%20to%20Ryuu%20no%20Rondo%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">14.6 GiB</td>
+				<td class="text-center" data-timestamp="1427601960">2015-03-29 04:06</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">956</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/989868" title="[Ohys-Raws] Dream-Fes! R (MX 1280x720 x264 AAC)">[Ohys-Raws] Dream-Fes! R (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/989868.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:ec9977a3e63b48be03961f9e7459fdc2f51e71dc&amp;dn=%5BOhys-Raws%5D%20Dream-Fes%21%20R%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">5.4 GiB</td>
+				<td class="text-center" data-timestamp="1513955331">2017-12-22 15:08</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">2</td>
+				<td class="text-center">949</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/1176890" title="[Ohys-Raws] Starmyu 3 (MX 1280x720 x264 AAC)">[Ohys-Raws] Starmyu 3 (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/1176890.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:7f41bfdbc7ad7ce095ea005bf18a475ab31ed9ee&amp;dn=%5BOhys-Raws%5D%20Starmyu%203%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">3.5 GiB</td>
+				<td class="text-center" data-timestamp="1568649353">2019-09-16 15:55</td>
+
+				<td class="text-center">1</td>
+				<td class="text-center">2</td>
+				<td class="text-center">936</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/1041394" title="[Ohys-Raws] Idolish Seven (MX 1280x720 x264 AAC)">[Ohys-Raws] Idolish Seven (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/1041394.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:86c9b6240a1239781a8cfc75a00eba8f6f557d83&amp;dn=%5BOhys-Raws%5D%20Idolish%20Seven%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">4.9 GiB</td>
+				<td class="text-center" data-timestamp="1527426336">2018-05-27 13:05</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">5</td>
+				<td class="text-center">922</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/1050688" title="[Ohys-Raws] Ladyspo (MX 1280x720 x264 AAC)">[Ohys-Raws] Ladyspo (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/1050688.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:c15b8b09843db9473b8d63a6f486c44931b0f0f7&amp;dn=%5BOhys-Raws%5D%20Ladyspo%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">830.8 MiB</td>
+				<td class="text-center" data-timestamp="1529944612">2018-06-25 16:36</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">3</td>
+				<td class="text-center">886</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/670452" title="[Ohys-Raws] Shirobako (MX 1280x720 x264 AAC)">[Ohys-Raws] Shirobako (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/670452.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:9c58f57f045e720dad95ec7b2bc3260f30893214&amp;dn=%5BOhys-Raws%5D%20Shirobako%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">6.0 GiB</td>
+				<td class="text-center" data-timestamp="1427365560">2015-03-26 10:26</td>
+
+				<td class="text-center">2</td>
+				<td class="text-center">1</td>
+				<td class="text-center">876</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/538967" title="[Leopard-Raws] Nagi no Asukara (MX 1280x720 x264 AAC)">[Leopard-Raws] Nagi no Asukara (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/538967.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:699a4e331187041038dcb6e02f838ce9c8a28c5f&amp;dn=%5BLeopard-Raws%5D%20Nagi%20no%20Asukara%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">7.4 GiB</td>
+				<td class="text-center" data-timestamp="1396525380">2014-04-03 11:43</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">873</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/604098" title="[Leopard-Raws] Buddy Complex - Kanketsuhen (MX 1280x720 x264 AAC)">[Leopard-Raws] Buddy Complex - Kanketsuhen (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/604098.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:df4e697da85a3f3a2cd532ab612a208b0a89615c&amp;dn=%5BLeopard-Raws%5D%20Buddy%20Complex%20-%20Kanketsuhen%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">1.0 GiB</td>
+				<td class="text-center" data-timestamp="1412157660">2014-10-01 10:01</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">858</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/384918" title="[Zero-Raws] Chuunibyou demo Koi ga Shitai! 01-12END (MX 1280x720 x264 AAC)">[Zero-Raws] Chuunibyou demo Koi ga Shitai! 01-12END (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/384918.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:96389868b20c5f71df03a8aacbb2c1ce3e8f4e39&amp;dn=%5BZero-Raws%5D%20Chuunibyou%20demo%20Koi%20ga%20Shitai%21%2001-12END%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">3.3 GiB</td>
+				<td class="text-center" data-timestamp="1355970960">2012-12-20 02:36</td>
+
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+				<td class="text-center">857</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/1036225" title="[Ohys-Raws] Jian Wangchao (MX 1280x720 x264 AAC)">[Ohys-Raws] Jian Wangchao (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/1036225.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:8e263acf8cfe180036f6b759d81c122c540034cf&amp;dn=%5BOhys-Raws%5D%20Jian%20Wangchao%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">5.0 GiB</td>
+				<td class="text-center" data-timestamp="1526127225">2018-05-12 12:13</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">4</td>
+				<td class="text-center">832</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/634942" title="[Leopard-Raws] Akame ga Kill! (MX 1280x720 x264 AAC)">[Leopard-Raws] Akame ga Kill! (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/634942.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:a0ff0c3377afaba46c8c634b7fc59688d4bd7340&amp;dn=%5BLeopard-Raws%5D%20Akame%20ga%20Kill%21%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">10.4 GiB</td>
+				<td class="text-center" data-timestamp="1418621340">2014-12-15 05:29</td>
+
+				<td class="text-center">1</td>
+				<td class="text-center">1</td>
+				<td class="text-center">809</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/1019871" title="[Ohys-Raws] Guda Men (MX 1280x720 x264 AAC)">[Ohys-Raws] Guda Men (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/1019871.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:e5df136ebbc1c36714bfdf0a9a0495d35191df29&amp;dn=%5BOhys-Raws%5D%20Guda%20Men%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">2.8 GiB</td>
+				<td class="text-center" data-timestamp="1522082548">2018-03-26 16:42</td>
+
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+				<td class="text-center">798</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/535404" title="[Leopard-Raws] Witch Craft Works (MX 1280x720 x264 AAC)">[Leopard-Raws] Witch Craft Works (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/535404.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:a1a1b61a307a7b59a5a419e4d0b1992f9eebfd52&amp;dn=%5BLeopard-Raws%5D%20Witch%20Craft%20Works%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">4.9 GiB</td>
+				<td class="text-center" data-timestamp="1395580500">2014-03-23 13:15</td>
+
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+				<td class="text-center">766</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/769502" title="[Ohys-Raws] Owari no Seraph 2 (MX 1280x720 x264 AAC)">[Ohys-Raws] Owari no Seraph 2 (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/769502.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:3dffb50fcb5cac90cd099d656d7d25d44b9a745e&amp;dn=%5BOhys-Raws%5D%20Owari%20no%20Seraph%202%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">5.5 GiB</td>
+				<td class="text-center" data-timestamp="1451117520">2015-12-26 08:12</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">763</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/355274" title="[Leopard-Raws] Accel World (MX 1280x720 x264 AAC)">[Leopard-Raws] Accel World (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/355274.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:0122ce77b3365afbce307635dd8ad6523bcb6260&amp;dn=%5BLeopard-Raws%5D%20Accel%20World%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">9.0 GiB</td>
+				<td class="text-center" data-timestamp="1348412640">2012-09-23 15:04</td>
+
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+				<td class="text-center">754</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/1019869" title="[Ohys-Raws] Mame Neko (MX 1280x720 x264 AAC)">[Ohys-Raws] Mame Neko (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/1019869.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:a810e718c5f16a038d2adde1246c6edde46c57fd&amp;dn=%5BOhys-Raws%5D%20Mame%20Neko%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">587.3 MiB</td>
+				<td class="text-center" data-timestamp="1522082538">2018-03-26 16:42</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">749</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/705234" title="[Leopard-Raws] Nisekoi - Second Season (MX 1280x720 x264 AAC)">[Leopard-Raws] Nisekoi - Second Season (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/705234.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:0a871a5a9be49ad6a57b663b4c7a58bfc91f4fe4&amp;dn=%5BLeopard-Raws%5D%20Nisekoi%20-%20Second%20Season%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">4.5 GiB</td>
+				<td class="text-center" data-timestamp="1435320420">2015-06-26 12:07</td>
+
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+				<td class="text-center">738</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/769157" title="[Ohys-Raws] Ushio to Tora (MX 1280x720 x264 AAC)">[Ohys-Raws] Ushio to Tora (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/769157.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:b8eff7333ec66fbe4c35862bd1938eb773ca3d6b&amp;dn=%5BOhys-Raws%5D%20Ushio%20to%20Tora%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">16.2 GiB</td>
+				<td class="text-center" data-timestamp="1451033340">2015-12-25 08:49</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">737</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/911556" title="[Ohys-Raws] Nyanko Days (MX 1280x720 x264 AAC)">[Ohys-Raws] Nyanko Days (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/911556.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:94048730fea42f17bfbd1bd0e03ed8c5a503bd84&amp;dn=%5BOhys-Raws%5D%20Nyanko%20Days%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">444.5 MiB</td>
+				<td class="text-center" data-timestamp="1490517300">2017-03-26 08:35</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">737</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/798016" title="[Ohys-Raws] Teekyuu 7 (MX 1280x720 x264 AAC)">[Ohys-Raws] Teekyuu 7 (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/798016.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:69a6f12da525a077c42a78d3f9beaf7f78094834&amp;dn=%5BOhys-Raws%5D%20Teekyuu%207%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">840.0 MiB</td>
+				<td class="text-center" data-timestamp="1459163580">2016-03-28 11:13</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">732</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/1036267" title="[Ohys-Raws] Spirit Pact Yomi no Chigiri (MX 1280x720 x264 AAC)">[Ohys-Raws] Spirit Pact Yomi no Chigiri (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/1036267.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:64c9e8b9253d85bdead56483a16c06120f16e0d1&amp;dn=%5BOhys-Raws%5D%20Spirit%20Pact%20Yomi%20no%20Chigiri%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">4.5 GiB</td>
+				<td class="text-center" data-timestamp="1526133135">2018-05-12 13:52</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">5</td>
+				<td class="text-center">729</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/445094" title="[Leopard-Raws] Date a Live (MX 1280x720 x264 AAC)">[Leopard-Raws] Date a Live (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/445094.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:e23c6e2401703daee8319cf141ab14e00c5668dd&amp;dn=%5BLeopard-Raws%5D%20Date%20a%20Live%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">3.9 GiB</td>
+				<td class="text-center" data-timestamp="1371875040">2013-06-22 04:24</td>
+
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+				<td class="text-center">727</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/670493" title="[Leopard-Raws] Shirobako (MX 1280x720 x264 AAC)">[Leopard-Raws] Shirobako (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/670493.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:2e8d2d4782d8a28163024d40b919a9eddd8ac4c8&amp;dn=%5BLeopard-Raws%5D%20Shirobako%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">6.9 GiB</td>
+				<td class="text-center" data-timestamp="1427376180">2015-03-26 13:23</td>
+
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+				<td class="text-center">720</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/564486" title="[Leopard-Raws] Date A Live II (MX 1280x720 x264 AAC)">[Leopard-Raws] Date A Live II (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/564486.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:8486b85cf6e0e27a23e289c3d54ccd7e547d8cc2&amp;dn=%5BLeopard-Raws%5D%20Date%20A%20Live%20II%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">3.2 GiB</td>
+				<td class="text-center" data-timestamp="1402716060">2014-06-14 03:21</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">709</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/636644" title="[Leopard-Raws] Terra Formars (MX 1280x720 x264 AAC)">[Leopard-Raws] Terra Formars (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/636644.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:74205f50c41b1874bb9ae96f8b34cec0342c12ef&amp;dn=%5BLeopard-Raws%5D%20Terra%20Formars%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">5.5 GiB</td>
+				<td class="text-center" data-timestamp="1419071460">2014-12-20 10:31</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">708</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/474654" title="[Leopard-Raws] Ginga Kikoutai Majestic Prince (MX 1280x720 x264 AAC)">[Leopard-Raws] Ginga Kikoutai Majestic Prince (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/474654.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:3a03d12b7d3abb1b94829ca0d8048ff6a9442402&amp;dn=%5BLeopard-Raws%5D%20Ginga%20Kikoutai%20Majestic%20Prince%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">9.5 GiB</td>
+				<td class="text-center" data-timestamp="1379591580">2013-09-19 11:53</td>
+
+				<td class="text-center">3</td>
+				<td class="text-center">3</td>
+				<td class="text-center">701</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/670138" title="[Leopard-Raws] Kantai Collection - KanColle (MX 1280x720 x264 AAC)">[Leopard-Raws] Kantai Collection - KanColle (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/670138.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:c6a36818e3f072a155c236d9d44cc99f01f4d502&amp;dn=%5BLeopard-Raws%5D%20Kantai%20Collection%20-%20KanColle%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">5.8 GiB</td>
+				<td class="text-center" data-timestamp="1427292900">2015-03-25 14:15</td>
+
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+				<td class="text-center">690</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/703192" title="[Ohys-Raws] Owari no Seraph (MX 1280x720 x264 AAC)">[Ohys-Raws] Owari no Seraph (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/703192.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:c3ef8ed3f4d4fc5b2c0519e60a7040834d63b7f1&amp;dn=%5BOhys-Raws%5D%20Owari%20no%20Seraph%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">5.1 GiB</td>
+				<td class="text-center" data-timestamp="1434790680">2015-06-20 08:58</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">687</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/251093" title="[Leopard-Raws] Hana-Saku Iroha (MX 1280x720 x264 AAC)">[Leopard-Raws] Hana-Saku Iroha (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/251093.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:a8e524e8189559a48f90ddde5bdc1cdd023af8c8&amp;dn=%5BLeopard-Raws%5D%20Hana-Saku%20Iroha%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">6.3 GiB</td>
+				<td class="text-center" data-timestamp="1318060200">2011-10-08 07:50</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">2</td>
+				<td class="text-center">681</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/797638" title="[Leopard-Raws] Heavy Object (MX 1280x720 x264 AAC)">[Leopard-Raws] Heavy Object (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/797638.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:2934bc8a400e40479ba5993a0a1ef02957783792&amp;dn=%5BLeopard-Raws%5D%20Heavy%20Object%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">11.2 GiB</td>
+				<td class="text-center" data-timestamp="1459058400">2016-03-27 06:00</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">675</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/501718" title="[Leopard-Raws] Ore no Nounai Sentakushi ga, Gakuen Lovecome o Zenryoku de Jama Shiteiru (MX 1280x720 x264 AAC)">[Leopard-Raws] Ore no Nounai Sentakushi ga, Gakuen Lovecome o Zenryoku de Jama Shiteiru (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/501718.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:bd19487407a171c77977a835f6d833816d39c04a&amp;dn=%5BLeopard-Raws%5D%20Ore%20no%20Nounai%20Sentakushi%20ga%2C%20Gakuen%20Lovecome%20o%20Zenryoku%20de%20Jama%20Shiteiru%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">3.4 GiB</td>
+				<td class="text-center" data-timestamp="1386829920">2013-12-12 06:32</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">2</td>
+				<td class="text-center">673</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/536213" title="[Leopard-Raws] Tokyo Ravens (MX 1280x720 x264 AAC)">[Leopard-Raws] Tokyo Ravens (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/536213.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:f5a267c3db214643222c27f59bd09a064f6f362e&amp;dn=%5BLeopard-Raws%5D%20Tokyo%20Ravens%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">8.2 GiB</td>
+				<td class="text-center" data-timestamp="1395787320">2014-03-25 22:42</td>
+
+				<td class="text-center">3</td>
+				<td class="text-center">0</td>
+				<td class="text-center">669</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/769258" title="[Ohys-Raws] Noragami Aragoto (MX 1280x720 x264 AAC)">[Ohys-Raws] Noragami Aragoto (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/769258.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:065d0b1d3c22f3bae0bd6766035e39d6b35ae54a&amp;dn=%5BOhys-Raws%5D%20Noragami%20Aragoto%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">4.6 GiB</td>
+				<td class="text-center" data-timestamp="1451048820">2015-12-25 13:07</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">658</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/737553" title="[Leopard-Raws] Prison School (MX 1280x720 x264 AAC)">[Leopard-Raws] Prison School (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/737553.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:ce178ee8dacfc953e14ebb2b2ea119dd71537941&amp;dn=%5BLeopard-Raws%5D%20Prison%20School%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">4.1 GiB</td>
+				<td class="text-center" data-timestamp="1443194760">2015-09-25 15:26</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">636</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/558041" title="[Leopard-Raws] Nisekoi (MX 1280x720 x264 AAC)">[Leopard-Raws] Nisekoi (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/558041.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:d4380b57fe2152b1edc4c28a81598f51dec6d360&amp;dn=%5BLeopard-Raws%5D%20Nisekoi%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">7.1 GiB</td>
+				<td class="text-center" data-timestamp="1400974740">2014-05-24 23:39</td>
+
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+				<td class="text-center">635</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/294339" title="[Leopard-Raws] Kore wa Zombie Desuka (MX 1280x720 x264 AAC)">[Leopard-Raws] Kore wa Zombie Desuka (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/294339.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:f0b2241779d4461d5527af53e1d94221f0daca46&amp;dn=%5BLeopard-Raws%5D%20Kore%20wa%20Zombie%20Desuka%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">3.9 GiB</td>
+				<td class="text-center" data-timestamp="1331198520">2012-03-08 09:22</td>
+
+				<td class="text-center">2</td>
+				<td class="text-center">1</td>
+				<td class="text-center">630</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/911560" title="[Ohys-Raws] Eldlive (MX 1280x720 x264 AAC)">[Ohys-Raws] Eldlive (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/911560.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:b4ff0ab9ed7cf70dee59dd93593ecf47f25b41e6&amp;dn=%5BOhys-Raws%5D%20Eldlive%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">4.7 GiB</td>
+				<td class="text-center" data-timestamp="1490518440">2017-03-26 08:54</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">621</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/851671" title="[Leopard-Raws] Show by Rock!! Short!! (MX 1280x720 x264 AAC)">[Leopard-Raws] Show by Rock!! Short!! (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/851671.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:aca6c17ab9f8ab5fa46bf43e2ddceb585cded0be&amp;dn=%5BLeopard-Raws%5D%20Show%20by%20Rock%21%21%20Short%21%21%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">857.0 MiB</td>
+				<td class="text-center" data-timestamp="1474293780">2016-09-19 14:03</td>
+
+				<td class="text-center">2</td>
+				<td class="text-center">1</td>
+				<td class="text-center">597</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/823579" title="[Leopard-Raws] Ushio to Tora (2016) (MX 1280x720 x264 AAC)">[Leopard-Raws] Ushio to Tora (2016) (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/823579.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:ef5bb13dcdfcf9ee89d9a40126f0e4825c639f10&amp;dn=%5BLeopard-Raws%5D%20Ushio%20to%20Tora%20%282016%29%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">9.9 GiB</td>
+				<td class="text-center" data-timestamp="1466786520">2016-06-24 16:42</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">591</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/797671" title="[Ohys-Raws] Ooya-san wa Shishunki! (MX 1280x720 x264 AAC)">[Ohys-Raws] Ooya-san wa Shishunki! (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/797671.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:72bc3556587ed195901361a6f5f7c423763ac836&amp;dn=%5BOhys-Raws%5D%20Ooya-san%20wa%20Shishunki%21%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">388.0 MiB</td>
+				<td class="text-center" data-timestamp="1459067640">2016-03-27 08:34</td>
+
+				<td class="text-center">2</td>
+				<td class="text-center">0</td>
+				<td class="text-center">590</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/537175" title="[Leopard-Raws] Nourin (MX 1280x720 x264 AAC)">[Leopard-Raws] Nourin (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/537175.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:51f6c360fd8199ef7766b0f43f401063033682b9&amp;dn=%5BLeopard-Raws%5D%20Nourin%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">3.8 GiB</td>
+				<td class="text-center" data-timestamp="1396052040">2014-03-29 00:14</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">585</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/602250" title="[Leopard-Raws] Rokujouma no Shinryakusha (MX 1280x720 x264 AAC)">[Leopard-Raws] Rokujouma no Shinryakusha (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/602250.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:85a879686c9d1df9513e8bf0a2930c1377bbd980&amp;dn=%5BLeopard-Raws%5D%20Rokujouma%20no%20Shinryakusha%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">4.2 GiB</td>
+				<td class="text-center" data-timestamp="1411739340">2014-09-26 13:49</td>
+
+				<td class="text-center">1</td>
+				<td class="text-center">1</td>
+				<td class="text-center">573</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/883896#comments" class="comments" title="1 comment">
+						<i class="fa fa-comments-o"></i>1</a>
+					<a href="https://nyaa.si/view/883896" title="[Ohys-Raws] Uta no Prince-sama - Maji Love Legend Star (MX 1280x720 x264 AAC)">[Ohys-Raws] Uta no Prince-sama - Maji Love Legend Star (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/883896.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:2209e39dad1f9ab8965eb947093418571ac99665&amp;dn=%5BOhys-Raws%5D%20Uta%20no%20Prince-sama%20-%20Maji%20Love%20Legend%20Star%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">4.8 GiB</td>
+				<td class="text-center" data-timestamp="1482610020">2016-12-24 20:07</td>
+
+				<td class="text-center">1</td>
+				<td class="text-center">6</td>
+				<td class="text-center">564</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/535466" title="[Leopard-Raws] Noragami (MX 1280x720 x264 AAC)">[Leopard-Raws] Noragami (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/535466.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:7b064a8d2163b50c7baef23403f5fd44204021b4&amp;dn=%5BLeopard-Raws%5D%20Noragami%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">3.6 GiB</td>
+				<td class="text-center" data-timestamp="1395592260">2014-03-23 16:31</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">2</td>
+				<td class="text-center">559</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/912622" title="[Ohys-Raws] All Out!! (MX 1280x720 x264 AAC)">[Ohys-Raws] All Out!! (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/912622.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:a7faa993f1a42fecd26b239449fc5bd13eb3f8d8&amp;dn=%5BOhys-Raws%5D%20All%20Out%21%21%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">9.1 GiB</td>
+				<td class="text-center" data-timestamp="1490871360">2017-03-30 10:56</td>
+
+				<td class="text-center">2</td>
+				<td class="text-center">0</td>
+				<td class="text-center">557</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/671700" title="[Leopard-Raws] Yoru no Yatterman (MX 1280x720 x264 AAC)">[Leopard-Raws] Yoru no Yatterman (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/671700.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:4cd855fd770397104c974ec4abcee2b9a624b472&amp;dn=%5BLeopard-Raws%5D%20Yoru%20no%20Yatterman%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">5.0 GiB</td>
+				<td class="text-center" data-timestamp="1427624760">2015-03-29 10:26</td>
+
+				<td class="text-center">1</td>
+				<td class="text-center">3</td>
+				<td class="text-center">547</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/703234" title="[Ohys-Raws] Koukaku Kidoutai Arise Alternative Architecture (MX 1280x720 x264 AAC)">[Ohys-Raws] Koukaku Kidoutai Arise Alternative Architecture (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/703234.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:772abd616df0c860e259f6dea7a88cd41dcdb861&amp;dn=%5BOhys-Raws%5D%20Koukaku%20Kidoutai%20Arise%20Alternative%20Architecture%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">4.4 GiB</td>
+				<td class="text-center" data-timestamp="1434800280">2015-06-20 11:38</td>
+
+				<td class="text-center">3</td>
+				<td class="text-center">1</td>
+				<td class="text-center">546</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/798021" title="[Ohys-Raws] Mahou Shoujo Nante Mou Ii Desu kara. (MX 1280x720 x264 AAC)">[Ohys-Raws] Mahou Shoujo Nante Mou Ii Desu kara. (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/798021.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:0d36a90f4e417df79a2fa42c1279c4181bebda48&amp;dn=%5BOhys-Raws%5D%20Mahou%20Shoujo%20Nante%20Mou%20Ii%20Desu%20kara.%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">870.0 MiB</td>
+				<td class="text-center" data-timestamp="1459164120">2016-03-28 11:22</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">544</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/796863" title="[Ohys-Raws] Kanojo to Kanojo no Neko - Everything Flows (MX 1280x720 x264 AAC)">[Ohys-Raws] Kanojo to Kanojo no Neko - Everything Flows (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/796863.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:3f225670a7a7ad1157007c3e0c58f5cff617e119&amp;dn=%5BOhys-Raws%5D%20Kanojo%20to%20Kanojo%20no%20Neko%20-%20Everything%20Flows%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">297.0 MiB</td>
+				<td class="text-center" data-timestamp="1458899280">2016-03-25 09:48</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">543</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/358043" title="[Leopard-Raws] Kyoukaisen-jou no Horizon II (MX 1280x720 x264 AAC)">[Leopard-Raws] Kyoukaisen-jou no Horizon II (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/358043.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:7baf35f78ba2566865573bac9caa44c619af01e2&amp;dn=%5BLeopard-Raws%5D%20Kyoukaisen-jou%20no%20Horizon%20II%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">4.2 GiB</td>
+				<td class="text-center" data-timestamp="1349182560">2012-10-02 12:56</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">542</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/421302" title="[Leopard-Raws] Maoyuu Maou Yuusha (MX 1280x720 x264 AAC)">[Leopard-Raws] Maoyuu Maou Yuusha (MX 1280x720 x264 AAC)</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/421302.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:49e9d613cae333625fd55f7f4516c2264a28e1ae&amp;dn=%5BLeopard-Raws%5D%20Maoyuu%20Maou%20Yuusha%20%28MX%201280x720%20x264%20AAC%29&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">4.2 GiB</td>
+				<td class="text-center" data-timestamp="1365336660">2013-04-07 12:11</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">2</td>
+				<td class="text-center">542</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+<div class="center">
+	<div class="pagination-page-info">Displaying results 151-225 out of 865 results.<br>
+Please refine your search results if you can't find what you were looking for.</div>
+	<ul class="pagination"><li class="previous"><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=downloads&amp;o=desc&amp;p=2">&laquo;</a></li><li><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=downloads&amp;o=desc">1</a></li><li><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=downloads&amp;o=desc&amp;p=2">2</a></li><li class="active"><a>3</a></li><li><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=downloads&amp;o=desc&amp;p=4">4</a></li><li><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=downloads&amp;o=desc&amp;p=5">5</a></li><li class="disabled"><a>...</a></li><li><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=downloads&amp;o=desc&amp;p=11">11</a></li><li><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=downloads&amp;o=desc&amp;p=12">12</a></li><li class="next"><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=downloads&amp;o=desc&amp;p=4">&raquo;</a></li></ul>
+</div>
+		</div> <!-- /container -->
+
+		<footer style="text-align: center;">
+			<p>Dark Mode: <a href="index.html?f=0&amp;c=1_4&amp;q=&quot;Raws]&quot;+&quot;(MX+1280x720+x264+AAC)&quot;+-mp4&amp;s=downloads&amp;o=desc&amp;p=3#" id="themeToggle">Toggle</a></p>
+			<p>Commit: <a href="https://github.com/nyaadevs/nyaa/tree/97c32a483f2e5c553b8a01e147d441b06b48a195">97c32a4</a></p>
+		</footer>
+	</body>
+</html>

@@ -1,0 +1,1859 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>&#34;Raws]&#34; &#34;(MX 1280x720 x264 AAC)&#34; -mp4 :: Nyaa</title>
+
+		<meta name="viewport" content="width=480px">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<link rel="shortcut icon" type="image/png" href="static/favicon.png">
+		<link rel="icon" type="image/png" href="static/favicon.png">
+		<link rel="mask-icon" href="https://nyaa.si/static/pinned-tab.svg" color="#3582F7">
+		<link rel="alternate" type="application/rss+xml" href="https://nyaa.si/?page=rss&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;c=1_4&amp;f=0" />
+
+		<meta property="og:site_name" content="Nyaa">
+		<meta property="og:title" content="&#34;Raws]&#34; &#34;(MX 1280x720 x264 AAC)&#34; -mp4 :: Nyaa">
+		<meta property="og:image" content="/static/img/avatar/default.png">
+<meta property="og:description" content="Search for '&#34;Raws]&#34; &#34;(MX 1280x720 x264 AAC)&#34; -mp4'">
+
+		<!-- Bootstrap core CSS -->
+		<!--
+			Note: This has been customized at http://getbootstrap.com/customize/ to
+			set the column breakpoint to tablet mode, instead of mobile. This is to
+			make the navbar not look awful on tablets.
+		-->
+		<link href="static/css/bootstrap.min.css?t=1494621267" rel="stylesheet" id="bsThemeLink">
+		<link href="static/css/bootstrap-xl-mod.css?t=1495603805" rel="stylesheet">
+		<!--
+			This theme changer script needs to be inline and right under the above stylesheet link to prevent FOUC (Flash Of Unstyled Content)
+			Development version is commented out in static/js/main.js at the bottom of the file
+		-->
+		<script>function toggleDarkMode(){"dark"===localStorage.getItem("theme")?setThemeLight():setThemeDark()}function setThemeDark(){bsThemeLink.href="/static/css/bootstrap-dark.min.css?t=1495008187",localStorage.setItem("theme","dark"),document.body!==null&&document.body.classList.add('dark')}function setThemeLight(){bsThemeLink.href="/static/css/bootstrap.min.css?t=1494621267",localStorage.setItem("theme","light"),document.body!==null&&document.body.classList.remove('dark')}if("undefined"!=typeof Storage){var bsThemeLink=document.getElementById("bsThemeLink");"dark"===localStorage.getItem("theme")&&setThemeDark()}</script>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.2/css/bootstrap-select.min.css" integrity="sha256-an4uqLnVJ2flr7w0U74xiF4PJjO2N5Df91R2CUmCLCA=" crossorigin="anonymous" />
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+
+		<!-- Custom styles for this template -->
+		<link href="static/css/main.css?t=1565727484" rel="stylesheet">
+
+		<!-- Core JavaScript -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha256-U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8=" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/8.3.1/markdown-it.min.js" integrity="sha256-3WZyZQOe+ql3pLo90lrkRtALrlniGdnf//gRpW0UQks=" crossorigin="anonymous"></script>
+		<!-- Modified to not apply border-radius to selectpickers and stuff so our navbar looks cool -->
+		<script src="static/js/bootstrap-select.min.js?t=1522850768"></script>
+		<script src="static/js/main.min.js?t=1565727484"></script>
+
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-107733743-2"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments)};
+			gtag('js', new Date());
+
+			gtag('config', 'UA-107733743-2');
+		</script>
+
+		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+		<!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+			<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+		<link rel="search" type="application/opensearchdescription+xml" title="Nyaa.si" href="https://nyaa.si/static/search.xml">
+	</head>
+	<body>
+		<!-- Fixed navbar -->
+		<nav class="navbar navbar-default navbar-static-top navbar-inverse">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="https://nyaa.si/">Nyaa</a>
+				</div><!--/.navbar-header -->
+				<div id="navbar" class="navbar-collapse collapse">
+					<ul class="nav navbar-nav">
+						<li ><a href="https://nyaa.si/upload">Upload</a></li>
+						<li class="dropdown">
+							<a href="index.html?f=0&amp;c=1_4&amp;q=&quot;Raws]&quot;+&quot;(MX+1280x720+x264+AAC)&quot;+-mp4&amp;s=downloads&amp;o=desc&amp;p=9#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+								Info
+								<span class="caret"></span>
+							</a>
+							<ul class="dropdown-menu">
+								<li ><a href="https://nyaa.si/rules">Rules</a></li>
+								<li ><a href="https://nyaa.si/help">Help</a></li>
+								<li><a href="https://github.com/nyaadevs/nyaa">Github</a></li>
+							</ul>
+						</li>
+						<li><a href="https://nyaa.si/?page=rss&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;c=1_4&amp;f=0">RSS</a></li>
+						<li><a href="https://twitter.com/NyaaV2">Twitter</a></li>
+						<li><a href="https://sukebei.nyaa.si/">Fap</a></li>
+					</ul>
+
+					<ul class="nav navbar-nav navbar-right">
+						<li class="dropdown">
+							<a href="index.html?f=0&amp;c=1_4&amp;q=&quot;Raws]&quot;+&quot;(MX+1280x720+x264+AAC)&quot;+-mp4&amp;s=downloads&amp;o=desc&amp;p=9#" class="dropdown-toggle visible-lg visible-sm visible-xs" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+								<i class="fa fa-user fa-fw"></i>
+								Guest
+								<span class="caret"></span>
+							</a>
+							<a href="index.html?f=0&amp;c=1_4&amp;q=&quot;Raws]&quot;+&quot;(MX+1280x720+x264+AAC)&quot;+-mp4&amp;s=downloads&amp;o=desc&amp;p=9#" class="dropdown-toggle hidden-lg hidden-sm hidden-xs" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+								<i class="fa fa-user fa-fw"></i>
+								<span class="caret"></span>
+							</a>
+							<ul class="dropdown-menu">
+								<li>
+									<a href="https://nyaa.si/login">
+										<i class="fa fa-sign-in fa-fw"></i>
+										Login
+									</a>
+								</li>
+								<li>
+									<a href="https://nyaa.si/register">
+										<i class="fa fa-pencil fa-fw"></i>
+										Register
+									</a>
+								</li>
+							</ul>
+						</li>
+					</ul>
+
+
+
+					<div class="search-container visible-xs visible-sm">
+						<form class="navbar-form navbar-right form" action="https://nyaa.si/" method="get">
+
+							<input type="text" class="form-control" name="q" placeholder="Search..." value="&#34;Raws]&#34; &#34;(MX 1280x720 x264 AAC)&#34; -mp4">
+							<br>
+
+							<select class="form-control" title="Filter" data-width="120px" name="f">
+								<option value="0" title="No filter" selected>No filter</option>
+								<option value="1" title="No remakes" >No remakes</option>
+								<option value="2" title="Trusted only" >Trusted only</option>
+							</select>
+
+							<br>
+
+							<select class="form-control" title="Category" data-width="200px" name="c">
+								<option value="0_0" title="All categories" selected>
+									All categories
+								</option>
+								<option value="1_0" title="Anime" >
+									Anime
+								</option>
+								<option value="1_1" title="Anime - AMV" >
+									- Anime Music Video
+								</option>
+								<option value="1_2" title="Anime - English" >
+									- English-translated
+								</option>
+								<option value="1_3" title="Anime - Non-English" >
+									- Non-English-translated
+								</option>
+								<option value="1_4" title="Anime - Raw" selected>
+									- Raw
+								</option>
+								<option value="2_0" title="Audio" >
+									Audio
+								</option>
+								<option value="2_1" title="Audio - Lossless" >
+									- Lossless
+								</option>
+								<option value="2_2" title="Audio - Lossy" >
+									- Lossy
+								</option>
+								<option value="3_0" title="Literature" >
+									Literature
+								</option>
+								<option value="3_1" title="Literature - English" >
+									- English-translated
+								</option>
+								<option value="3_2" title="Literature - Non-English" >
+									- Non-English-translated
+								</option>
+								<option value="3_3" title="Literature - Raw" >
+									- Raw
+								</option>
+								<option value="4_0" title="Live Action" >
+									Live Action
+								</option>
+								<option value="4_1" title="Live Action - English" >
+									- English-translated
+								</option>
+								<option value="4_2" title="Live Action - Idol/PV" >
+									- Idol/Promotional Video
+								</option>
+								<option value="4_3" title="Live Action - Non-English" >
+									- Non-English-translated
+								</option>
+								<option value="4_4" title="Live Action - Raw" >
+									- Raw
+								</option>
+								<option value="5_0" title="Pictures" >
+									Pictures
+								</option>
+								<option value="5_1" title="Pictures - Graphics" >
+									- Graphics
+								</option>
+								<option value="5_2" title="Pictures - Photos" >
+									- Photos
+								</option>
+								<option value="6_0" title="Software" >
+									Software
+								</option>
+								<option value="6_1" title="Software - Apps" >
+									- Applications
+								</option>
+								<option value="6_2" title="Software - Games" >
+									- Games
+								</option>
+							</select>
+
+							<br>
+
+							<button class="btn btn-primary form-control" type="submit">
+								<i class="fa fa-search fa-fw"></i> Search
+							</button>
+						</form>
+					</div><!--/.search-container -->
+
+					<form class="navbar-form navbar-right form" action="https://nyaa.si/" method="get">
+						<div class="input-group search-container hidden-xs hidden-sm">
+							<div class="input-group-btn nav-filter" id="navFilter-criteria">
+								<select class="selectpicker show-tick" title="Filter" data-width="120px" name="f">
+									<option value="0" title="No filter" selected>No filter</option>
+									<option value="1" title="No remakes" >No remakes</option>
+									<option value="2" title="Trusted only" >Trusted only</option>
+								</select>
+							</div>
+
+							<div class="input-group-btn nav-filter" id="navFilter-category">
+								<!--
+									On narrow viewports, there isn't enough room to fit the full stuff in the selectpicker, so we show a full-width one on wide viewports, but squish it on narrow ones.
+								-->
+								<select class="selectpicker show-tick" title="Category" data-width="130px" name="c">
+									<option value="0_0" title="All categories" selected>
+										All categories
+									</option>
+									<option value="1_0" title="Anime" >
+										Anime
+									</option>
+									<option value="1_1" title="Anime - AMV" >
+										- Anime Music Video
+									</option>
+									<option value="1_2" title="Anime - English" >
+										- English-translated
+									</option>
+									<option value="1_3" title="Anime - Non-English" >
+										- Non-English-translated
+									</option>
+									<option value="1_4" title="Anime - Raw" selected>
+										- Raw
+									</option>
+									<option value="2_0" title="Audio" >
+										Audio
+									</option>
+									<option value="2_1" title="Audio - Lossless" >
+										- Lossless
+									</option>
+									<option value="2_2" title="Audio - Lossy" >
+										- Lossy
+									</option>
+									<option value="3_0" title="Literature" >
+										Literature
+									</option>
+									<option value="3_1" title="Literature - English" >
+										- English-translated
+									</option>
+									<option value="3_2" title="Literature - Non-English" >
+										- Non-English-translated
+									</option>
+									<option value="3_3" title="Literature - Raw" >
+										- Raw
+									</option>
+									<option value="4_0" title="Live Action" >
+										Live Action
+									</option>
+									<option value="4_1" title="Live Action - English" >
+										- English-translated
+									</option>
+									<option value="4_2" title="Live Action - Idol/PV" >
+										- Idol/Promotional Video
+									</option>
+									<option value="4_3" title="Live Action - Non-English" >
+										- Non-English-translated
+									</option>
+									<option value="4_4" title="Live Action - Raw" >
+										- Raw
+									</option>
+									<option value="5_0" title="Pictures" >
+										Pictures
+									</option>
+									<option value="5_1" title="Pictures - Graphics" >
+										- Graphics
+									</option>
+									<option value="5_2" title="Pictures - Photos" >
+										- Photos
+									</option>
+									<option value="6_0" title="Software" >
+										Software
+									</option>
+									<option value="6_1" title="Software - Apps" >
+										- Applications
+									</option>
+									<option value="6_2" title="Software - Games" >
+										- Games
+									</option>
+								</select>
+							</div>
+							<input type="text" class="form-control search-bar" name="q" placeholder="Search..." value="&#34;Raws]&#34; &#34;(MX 1280x720 x264 AAC)&#34; -mp4" />
+							<div class="input-group-btn search-btn">
+								<button class="btn btn-primary" type="submit">
+									<i class="fa fa-search fa-fw"></i>
+								</button>
+							</div>
+						</div>
+					</form>
+				</div><!--/.nav-collapse -->
+			</div><!--/.container -->
+		</nav>
+
+		<div class="container">
+
+
+
+
+
+<div class="table-responsive">
+	<table class="table table-bordered table-hover table-striped torrent-list">
+		<thead>
+			<tr>
+				<th class="hdr-category text-center" style="width:80px;">Category</th>
+				<th class="hdr-name" style="width:auto;">Name</th>
+				<th class="hdr-comments sorting text-center" title="Comments" style="width:50px;"><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=comments&amp;o=desc"></a><i class="fa fa-comments-o"></i></th>
+				<th class="hdr-link text-center" style="width:70px;">Link</th>
+				<th class="hdr-size sorting text-center" style="width:100px;"><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=size&amp;o=desc"></a>Size</th>
+				<th class="hdr-date sorting text-center" title="In UTC" style="width:140px;"><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=id&amp;o=desc"></a>Date</th>
+
+				<th class="hdr-seeders sorting text-center" title="Seeders" style="width:50px;"><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=seeders&amp;o=desc"></a><i class="fa fa-arrow-up" aria-hidden="true"></i></th>
+				<th class="hdr-leechers sorting text-center" title="Leechers" style="width:50px;"><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=leechers&amp;o=desc"></a><i class="fa fa-arrow-down" aria-hidden="true"></i></th>
+				<th class="hdr-downloads sorting_desc text-center" title="Completed downloads" style="width:50px;"><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=downloads&amp;o=asc"></a><i class="fa fa-check" aria-hidden="true"></i></th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr class="danger">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/143381" title="[Dm258.Raws] Nurarihyon no Mago - 02 RAW (MX 1280x720 x264 AAC).mkv">[Dm258.Raws] Nurarihyon no Mago - 02 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/143381.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:d5c17c418b2e464140a7a8d1b2c50d424bf03716&amp;dn=%5BDm258.Raws%5D%20Nurarihyon%20no%20Mago%20-%2002%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">364.7 MiB</td>
+				<td class="text-center" data-timestamp="1278990240">2010-07-13 03:04</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/144194" title="[Zero-Raws] Shukufuku no Campanella - 03 RAW (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Shukufuku no Campanella - 03 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/144194.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:816056784fccd699487cdf6b4be0a60fd8cddd81&amp;dn=%5BZero-Raws%5D%20Shukufuku%20no%20Campanella%20-%2003%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">362.0 MiB</td>
+				<td class="text-center" data-timestamp="1279288440">2010-07-16 13:54</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="danger">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/144296" title="[Dm258.Raws] Shukufuku no Campanella - 03 RAW (MX 1280x720 x264 AAC).mkv">[Dm258.Raws] Shukufuku no Campanella - 03 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/144296.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:ef006abcd0ea2d76b7290fd95e5c9c6feb691a25&amp;dn=%5BDm258.Raws%5D%20Shukufuku%20no%20Campanella%20-%2003%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">353.1 MiB</td>
+				<td class="text-center" data-timestamp="1279329540">2010-07-17 01:19</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/144666" title="[Zero-Raws] Sekirei ~Pure Engagement~ - 03 RAW (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Sekirei ~Pure Engagement~ - 03 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/144666.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:00d443bb89723ba8ab2721c171c0b08e909c5e2e&amp;dn=%5BZero-Raws%5D%20Sekirei%20~Pure%20Engagement~%20-%2003%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">316.3 MiB</td>
+				<td class="text-center" data-timestamp="1279453320">2010-07-18 11:42</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="danger">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/144748" title="[Dm258.Raws] Sekirei ~Pure Engagement~ - 03 RAW (MX 1280x720 x264 AAC).mkv">[Dm258.Raws] Sekirei ~Pure Engagement~ - 03 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/144748.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:22e2fa435300b33426fbe47329af4227dcbed3bb&amp;dn=%5BDm258.Raws%5D%20Sekirei%20~Pure%20Engagement~%20-%2003%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">321.8 MiB</td>
+				<td class="text-center" data-timestamp="1279490280">2010-07-18 21:58</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/145115" title="[Zero-Raws] Nurarihyon no Mago - 03 RAW (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Nurarihyon no Mago - 03 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/145115.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:780385505b0a1c8af3eb56f8cccf8386b4774028&amp;dn=%5BZero-Raws%5D%20Nurarihyon%20no%20Mago%20-%2003%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">303.1 MiB</td>
+				<td class="text-center" data-timestamp="1279624980">2010-07-20 11:23</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="danger">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/145561" title="[Dm258.Raws] Nurarihyon no Mago - 03 RAW (MX 1280x720 x264 AAC).mkv">[Dm258.Raws] Nurarihyon no Mago - 03 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/145561.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:ff379542e3d6c0ccc94be6eab0571df2b7f7adb4&amp;dn=%5BDm258.Raws%5D%20Nurarihyon%20no%20Mago%20-%2003%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">310.4 MiB</td>
+				<td class="text-center" data-timestamp="1279759380">2010-07-22 00:43</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="danger">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/146615" title="[Dm258.Raws] Sekirei ~Pure Engagement~ - 04 RAW (MX 1280x720 x264 AAC).mkv">[Dm258.Raws] Sekirei ~Pure Engagement~ - 04 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/146615.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:029242ae380d5e24bc0ad39304e8751cb0ea475d&amp;dn=%5BDm258.Raws%5D%20Sekirei%20~Pure%20Engagement~%20-%2004%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">285.1 MiB</td>
+				<td class="text-center" data-timestamp="1280128140">2010-07-26 07:09</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/146970" title="[Zero-Raws] Nurarihyon no Mago - 04 RAW (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Nurarihyon no Mago - 04 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/146970.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:19283cb95b390701f890f7ba68d06a8cadd7f263&amp;dn=%5BZero-Raws%5D%20Nurarihyon%20no%20Mago%20-%2004%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">352.8 MiB</td>
+				<td class="text-center" data-timestamp="1280245560">2010-07-27 15:46</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/147648" title="[Zero-Raws] Shukufuku no Campanella - 05 RAW (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Shukufuku no Campanella - 05 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/147648.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:541e02050665a54c81c700e2d66688cb4e1e35d1&amp;dn=%5BZero-Raws%5D%20Shukufuku%20no%20Campanella%20-%2005%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">326.5 MiB</td>
+				<td class="text-center" data-timestamp="1280497620">2010-07-30 13:47</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="danger">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/147780" title="[Dm258.Raws] Shukufuku no Campanella - 05 RAW (MX 1280x720 x264 AAC).mkv">[Dm258.Raws] Shukufuku no Campanella - 05 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/147780.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:a9278ab1f0a2e9415aadbdbf2ae8c6f9c6e9524b&amp;dn=%5BDm258.Raws%5D%20Shukufuku%20no%20Campanella%20-%2005%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">324.8 MiB</td>
+				<td class="text-center" data-timestamp="1280553660">2010-07-31 05:21</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/148129" title="[Zero-Raws] Seikrei ~Pure Engagement~ - 05 RAW (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Seikrei ~Pure Engagement~ - 05 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/148129.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:b1a4f4354fc39779ca9a34f6007ba23be23d6b47&amp;dn=%5BZero-Raws%5D%20Seikrei%20~Pure%20Engagement~%20-%2005%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">282.6 MiB</td>
+				<td class="text-center" data-timestamp="1280673240">2010-08-01 14:34</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/149341" title="[Zero-Raws] Shukufuku no Campanella 06 RAW (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Shukufuku no Campanella 06 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/149341.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:9c43be6b58c9835c3e3021ccbabb6d59392616ec&amp;dn=%5BZero-Raws%5D%20Shukufuku%20no%20Campanella%2006%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">299.7 MiB</td>
+				<td class="text-center" data-timestamp="1281103260">2010-08-06 14:01</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="danger">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/149430" title="[Dm258.Raws] Shukufuku no Campanella - 06 RAW (MX 1280x720 x264 AAC).mkv">[Dm258.Raws] Shukufuku no Campanella - 06 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/149430.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:95589a98352157b09b3b4aaec09fe11737763acf&amp;dn=%5BDm258.Raws%5D%20Shukufuku%20no%20Campanella%20-%2006%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">293.9 MiB</td>
+				<td class="text-center" data-timestamp="1281138420">2010-08-06 23:47</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/150211" title="[Zero-Raws] Nurarihyon no Mago - 06 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Nurarihyon no Mago - 06 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/150211.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:eb189ce410d59d7605a3c450685cea3c5f2ecb3c&amp;dn=%5BZero-Raws%5D%20Nurarihyon%20no%20Mago%20-%2006%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">329.9 MiB</td>
+				<td class="text-center" data-timestamp="1281442140">2010-08-10 12:09</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="danger">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/151051" title="[Dm258.Raws] Shukufuku no Campanella - 07 RAW (MX 1280x720 x264 AAC).mkv">[Dm258.Raws] Shukufuku no Campanella - 07 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/151051.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:6c476ad71d1eaa379a14bd19d721dfbf10863912&amp;dn=%5BDm258.Raws%5D%20Shukufuku%20no%20Campanella%20-%2007%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">415.6 MiB</td>
+				<td class="text-center" data-timestamp="1281737460">2010-08-13 22:11</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/151062" title="[Zero-Raws] Shukufuku no Campanella - 07 RAW (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Shukufuku no Campanella - 07 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/151062.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:b007e2270ffd37ea71a6648d5750b9bc24a2a8f1&amp;dn=%5BZero-Raws%5D%20Shukufuku%20no%20Campanella%20-%2007%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">335.2 MiB</td>
+				<td class="text-center" data-timestamp="1281740040">2010-08-13 22:54</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/151396" title="[Zero-Raws] Sekirei ~Pure Engagement~ - 07 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Sekirei ~Pure Engagement~ - 07 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/151396.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:31a9e46997f32d64711c7e7e53c382acdf852c07&amp;dn=%5BZero-Raws%5D%20Sekirei%20~Pure%20Engagement~%20-%2007%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">305.4 MiB</td>
+				<td class="text-center" data-timestamp="1281871140">2010-08-15 11:19</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="danger">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/151424" title="[Dm258.Raws] Sekirei ~Pure Engagement~ - 07 RAW (MX 1280x720 x264 AAC).mkv">[Dm258.Raws] Sekirei ~Pure Engagement~ - 07 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/151424.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:4bad9a1e72eb5fbb4611bda5b562fdc1cc08933d&amp;dn=%5BDm258.Raws%5D%20Sekirei%20~Pure%20Engagement~%20-%2007%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">296.9 MiB</td>
+				<td class="text-center" data-timestamp="1281877920">2010-08-15 13:12</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/152018" title="[Zero-Raws] Nurarihyon no Mago - 07 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Nurarihyon no Mago - 07 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/152018.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:8028ea3a33efce45e29456914d489642f567f6ea&amp;dn=%5BZero-Raws%5D%20Nurarihyon%20no%20Mago%20-%2007%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">360.4 MiB</td>
+				<td class="text-center" data-timestamp="1282048140">2010-08-17 12:29</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/152815" title="[Zero-Raws] Shukufuku no Campanella - 08 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Shukufuku no Campanella - 08 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/152815.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:ffeb63e71460a8a151276736c3d07b391f8265d7&amp;dn=%5BZero-Raws%5D%20Shukufuku%20no%20Campanella%20-%2008%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">377.1 MiB</td>
+				<td class="text-center" data-timestamp="1282316940">2010-08-20 15:09</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="danger">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/152854" title="[Dm258.Raws] Shukufuku no Campanella - 08 RAW (MX 1280x720 x264 AAC).mkv">[Dm258.Raws] Shukufuku no Campanella - 08 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/152854.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:50c8dd9fb900a0ef3e8625c790a44e153e4b740d&amp;dn=%5BDm258.Raws%5D%20Shukufuku%20no%20Campanella%20-%2008%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">367.7 MiB</td>
+				<td class="text-center" data-timestamp="1282339020">2010-08-20 21:17</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/153709" title="[Zero-Raws] Nurarihyon no Mago - 08 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Nurarihyon no Mago - 08 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/153709.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:a00e0a563f68392220dbd5bc2896cbd31e8c6564&amp;dn=%5BZero-Raws%5D%20Nurarihyon%20no%20Mago%20-%2008%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">386.5 MiB</td>
+				<td class="text-center" data-timestamp="1282655460">2010-08-24 13:11</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/154378" title="[Zero-Raws] Shukufuku no Campanella - 09 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Shukufuku no Campanella - 09 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/154378.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:995b73dbe2f5b4ecfbcb1ba79254c55b91ff2229&amp;dn=%5BZero-Raws%5D%20Shukufuku%20no%20Campanella%20-%2009%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">316.3 MiB</td>
+				<td class="text-center" data-timestamp="1282926420">2010-08-27 16:27</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="danger">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/154479" title="[Dm258.Raws] Shukufuku no Campanella - 09 RAW (MX 1280x720 x264 AAC).mkv">[Dm258.Raws] Shukufuku no Campanella - 09 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="magnet:?xt=urn:btih:30a5cd99e8b71b53aaf217dcb34afb3543087ced&amp;dn=%5BDm258.Raws%5D%20Shukufuku%20no%20Campanella%20-%2009%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">308.2 MiB</td>
+				<td class="text-center" data-timestamp="1282976700">2010-08-28 06:25</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/155289" title="[Zero-Raws] Nurarihyon no Mago 09 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Nurarihyon no Mago 09 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/155289.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:6ae1f1ab8da91585773285997b5dbe65aa0893be&amp;dn=%5BZero-Raws%5D%20Nurarihyon%20no%20Mago%2009%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">335.3 MiB</td>
+				<td class="text-center" data-timestamp="1283262720">2010-08-31 13:52</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/155803" title="[Zero-Raws] Strike Witches 2-ki - 09 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Strike Witches 2-ki - 09 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/155803.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:93f95efbca4520c3daacff28e4f3bbb5af537424&amp;dn=%5BZero-Raws%5D%20Strike%20Witches%202-ki%20-%2009%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">295.8 MiB</td>
+				<td class="text-center" data-timestamp="1283448240">2010-09-02 17:24</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/155811" title="[Zero-Raws] Strike Witches 2-ki - 09 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Strike Witches 2-ki - 09 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/155811.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:796d40dbb509b0f713703bf2ddad8e0fc4639a11&amp;dn=%5BZero-Raws%5D%20Strike%20Witches%202-ki%20-%2009%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">330.0 MiB</td>
+				<td class="text-center" data-timestamp="1283453460">2010-09-02 18:51</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/156032" title="[Zero-Raws] Shukufuku no Campanella - 10 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Shukufuku no Campanella - 10 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/156032.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:640293612654d182ea3a9c942b201adb083451ab&amp;dn=%5BZero-Raws%5D%20Shukufuku%20no%20Campanella%20-%2010%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">287.1 MiB</td>
+				<td class="text-center" data-timestamp="1283537220">2010-09-03 18:07</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="danger">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/156324" title="[Dm258.Raws] Shukufuku no Campanella - 10 RAW (MX 1280x720 x264 AAC).mkv">[Dm258.Raws] Shukufuku no Campanella - 10 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/156324.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:54e198b60643700441957913d0fe15c2019452cb&amp;dn=%5BDm258.Raws%5D%20Shukufuku%20no%20Campanella%20-%2010%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">278.7 MiB</td>
+				<td class="text-center" data-timestamp="1283665740">2010-09-05 05:49</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="danger">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/156325" title="[Dm258.Raws] Hyakka Ryouran Samurai Girls - 01 RAW (MX 1280x720 x264 AAC).mkv">[Dm258.Raws] Hyakka Ryouran Samurai Girls - 01 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/156325.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:ec7b0c451f00d9fd29b12a27ba5ea866b9c10f54&amp;dn=%5BDm258.Raws%5D%20Hyakka%20Ryouran%20Samurai%20Girls%20-%2001%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">383.4 MiB</td>
+				<td class="text-center" data-timestamp="1283665800">2010-09-05 05:50</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/156416" title="[Zero-Raws] Sekirei ~Pure Engagement~ - 10 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Sekirei ~Pure Engagement~ - 10 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/156416.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:d49212b5fbad09c6e6a104a82a2320fca98376a1&amp;dn=%5BZero-Raws%5D%20Sekirei%20~Pure%20Engagement~%20-%2010%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">349.4 MiB</td>
+				<td class="text-center" data-timestamp="1283688540">2010-09-05 12:09</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="danger">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/156505" title="[Dm258.Raws] Sekirei ~Pure Engagement~ - 10 RAW (MX 1280x720 x264 AAC).mkv">[Dm258.Raws] Sekirei ~Pure Engagement~ - 10 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/156505.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:37d715a7129c21f0f563a9f6e83c63c5e4d8625d&amp;dn=%5BDm258.Raws%5D%20Sekirei%20~Pure%20Engagement~%20-%2010%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">340.9 MiB</td>
+				<td class="text-center" data-timestamp="1283722320">2010-09-05 21:32</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="danger">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/156567" title="[Dm258.Raws] Mitsudomoe - 10 RAW (MX 1280x720 x264 AAC).mkv">[Dm258.Raws] Mitsudomoe - 10 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/156567.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:034b2d79caf43ad07683dee7871c9663b03ee050&amp;dn=%5BDm258.Raws%5D%20Mitsudomoe%20-%2010%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">299.9 MiB</td>
+				<td class="text-center" data-timestamp="1283742660">2010-09-06 03:11</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/157591" title="[Zero-Raws] Shukufuku no Campanella - 11 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Shukufuku no Campanella - 11 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/157591.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:11c39d5f82335fd154180f0e7cf28e67e4f60c59&amp;dn=%5BZero-Raws%5D%20Shukufuku%20no%20Campanella%20-%2011%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">343.1 MiB</td>
+				<td class="text-center" data-timestamp="1284146400">2010-09-10 19:20</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="danger">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/157670" title="[Dm258.Raws] Shukufuku no Campanella - 11 RAW (MX 1280x720 x264 AAC).mkv">[Dm258.Raws] Shukufuku no Campanella - 11 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="magnet:?xt=urn:btih:399258691ae9a089d0c7fa4deec92200638a21a8&amp;dn=%5BDm258.Raws%5D%20Shukufuku%20no%20Campanella%20-%2011%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">350.9 MiB</td>
+				<td class="text-center" data-timestamp="1284167040">2010-09-11 01:04</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="danger">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/158068" title="[Dm258.Raws] Mitsudomoe - 11 RAW (MX 1280x720 x264 AAC).mkv">[Dm258.Raws] Mitsudomoe - 11 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/158068.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:7cc1678fcbda771154ecac15a0ef0ebc6f2e73e2&amp;dn=%5BDm258.Raws%5D%20Mitsudomoe%20-%2011%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">314.4 MiB</td>
+				<td class="text-center" data-timestamp="1284309600">2010-09-12 16:40</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/158429" title="[KoDAk-OpenRaws] Hyakka Ryouran Samurai Girls - 01 (PreAir) (MX 1280x720 x264 AAC).mkv">[KoDAk-OpenRaws] Hyakka Ryouran Samurai Girls - 01 (PreAir) (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/158429.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:6b18343a872614ab317ed3ae6828addb75b1956a&amp;dn=%5BKoDAk-OpenRaws%5D%20Hyakka%20Ryouran%20Samurai%20Girls%20-%2001%20%28PreAir%29%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">353.7 MiB</td>
+				<td class="text-center" data-timestamp="1284446640">2010-09-14 06:44</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/158495" title="[Zero-Raws] Nurarihyon no Mago - 11 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Nurarihyon no Mago - 11 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/158495.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:2260a6af74ce70492c32787e5b35ac2704db99fb&amp;dn=%5BZero-Raws%5D%20Nurarihyon%20no%20Mago%20-%2011%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">414.1 MiB</td>
+				<td class="text-center" data-timestamp="1284465840">2010-09-14 12:04</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="danger">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/158544" title="[KoDAk-OpenRaws] Hyakka Ryouran Samurai Girls - 01 (PreAir) (MX 1280x720 x264 AAC).mkv">[KoDAk-OpenRaws] Hyakka Ryouran Samurai Girls - 01 (PreAir) (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/158544.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:f73eaa790d1f6174a7195866f58572cb5abd3bcb&amp;dn=%5BKoDAk-OpenRaws%5D%20Hyakka%20Ryouran%20Samurai%20Girls%20-%2001%20%28PreAir%29%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">353.7 MiB</td>
+				<td class="text-center" data-timestamp="1284481380">2010-09-14 16:23</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/159002" title="[Zero-Raws] Strike Witches 2-ki - 11 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Strike Witches 2-ki - 11 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/159002.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:db50341184b8c8dd0eb28f20fc3f698c60b317e1&amp;dn=%5BZero-Raws%5D%20Strike%20Witches%202-ki%20-%2011%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">278.9 MiB</td>
+				<td class="text-center" data-timestamp="1284673080">2010-09-16 21:38</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/159144" title="[Zero-Raws] Shukufuku no Campanella - 12 END RAW (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Shukufuku no Campanella - 12 END RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/159144.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:726534acd0c4b492640daeffe0a496ccec513e13&amp;dn=%5BZero-Raws%5D%20Shukufuku%20no%20Campanella%20-%2012%20END%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">427.1 MiB</td>
+				<td class="text-center" data-timestamp="1284738300">2010-09-17 15:45</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/159598" title="[Zero-Raws] Sekirei ~Pure Engagement~ - 12 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Sekirei ~Pure Engagement~ - 12 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/159598.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:f86c8d7112ef5d9af33eab0a0a02057661c452b6&amp;dn=%5BZero-Raws%5D%20Sekirei%20~Pure%20Engagement~%20-%2012%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">334.3 MiB</td>
+				<td class="text-center" data-timestamp="1284924060">2010-09-19 19:21</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="danger">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/159621" title="[Dm258.Raws] Sekirei ~Pure Engagement~ - 12 RAW (MX 1280x720 x264 AAC).mkv">[Dm258.Raws] Sekirei ~Pure Engagement~ - 12 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/159621.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:c7c667cfc7ea5afb26b7f509526070ecf9012550&amp;dn=%5BDm258.Raws%5D%20Sekirei%20~Pure%20Engagement~%20-%2012%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">365.3 MiB</td>
+				<td class="text-center" data-timestamp="1284934740">2010-09-19 22:19</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/159976" title="[Zero-Raws] Nurarihyon no Mago - 12 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Nurarihyon no Mago - 12 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/159976.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:6b960194436a57490002b3cc4141f46577011576&amp;dn=%5BZero-Raws%5D%20Nurarihyon%20no%20Mago%20-%2012%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">379.0 MiB</td>
+				<td class="text-center" data-timestamp="1285075800">2010-09-21 13:30</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/160383" title="[Zero-Raws] Strike Witches 2-ki - 12 END (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Strike Witches 2-ki - 12 END (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/160383.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:a291a95a701223f425b91882a2e57d7ae8e9efad&amp;dn=%5BZero-Raws%5D%20Strike%20Witches%202-ki%20-%2012%20END%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">555.8 MiB</td>
+				<td class="text-center" data-timestamp="1285252980">2010-09-23 14:43</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/160612" title="[KoDAk-OpenRaws] Sekirei ~Pure Engagement~ - 12 (MX 1280x720 x264 AAC).mkv">[KoDAk-OpenRaws] Sekirei ~Pure Engagement~ - 12 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/160612.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:a60c3169c861adea6055a14764627013e2dcce49&amp;dn=%5BKoDAk-OpenRaws%5D%20Sekirei%20~Pure%20Engagement~%20-%2012%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">278.5 MiB</td>
+				<td class="text-center" data-timestamp="1285349220">2010-09-24 17:27</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/161104" title="[KoDAk-OpenRaws] Sekirei ~Pure Engagement~ - 13 (MX 1280x720 x264 AAC).mkv">[KoDAk-OpenRaws] Sekirei ~Pure Engagement~ - 13 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/161104.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:8078e7bd58a6e3a0f9b0e9c76f90d1825d0402c4&amp;dn=%5BKoDAk-OpenRaws%5D%20Sekirei%20~Pure%20Engagement~%20-%2013%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">256.9 MiB</td>
+				<td class="text-center" data-timestamp="1285548300">2010-09-27 00:45</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/161111" title="[Dm258.Raws] Sekirei ~Pure Engagement~ - 13 END RAW (MX 1280x720 x264 AAC).mkv">[Dm258.Raws] Sekirei ~Pure Engagement~ - 13 END RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/161111.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:61fd075b0474e3dab8ab9bf741d62ea9d401757f&amp;dn=%5BDm258.Raws%5D%20Sekirei%20~Pure%20Engagement~%20-%2013%20END%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">318.5 MiB</td>
+				<td class="text-center" data-timestamp="1285551780">2010-09-27 01:43</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="danger">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/161530" title="[Dm258.Raws] Nurarihyon no Mago - 13 RAW (MX 1280x720 x264 AAC).mkv">[Dm258.Raws] Nurarihyon no Mago - 13 RAW (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="magnet:?xt=urn:btih:146abc0ae99091547db5e75030edc586f6dca43f&amp;dn=%5BDm258.Raws%5D%20Nurarihyon%20no%20Mago%20-%2013%20RAW%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">459.6 MiB</td>
+				<td class="text-center" data-timestamp="1285731360">2010-09-29 03:36</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/163022" title="[Zero-Raws] Nurarihyon no Mago - 14 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Nurarihyon no Mago - 14 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/163022.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:ce0bc8cef58ed354441ee3b0779a7023f35d651c&amp;dn=%5BZero-Raws%5D%20Nurarihyon%20no%20Mago%20-%2014%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">358.8 MiB</td>
+				<td class="text-center" data-timestamp="1286280240">2010-10-05 12:04</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/163178" title="[KoDAk-OpenRaws] Hyakka Ryouran Samurai Girls 01 (MX 1280x720 x264 AAC).mkv">[KoDAk-OpenRaws] Hyakka Ryouran Samurai Girls 01 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/163178.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:1c55721b5430572b62a0d1b93133b2a1ec165af2&amp;dn=%5BKoDAk-OpenRaws%5D%20Hyakka%20Ryouran%20Samurai%20Girls%2001%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">364.2 MiB</td>
+				<td class="text-center" data-timestamp="1286323560">2010-10-06 00:06</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/163184" title="[Zero-Raws] Hyakka Samurai Girls - 01 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Hyakka Samurai Girls - 01 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/163184.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:1225e2825c60edfa6f6d77e6527291250b479399&amp;dn=%5BZero-Raws%5D%20Hyakka%20Samurai%20Girls%20-%2001%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">423.3 MiB</td>
+				<td class="text-center" data-timestamp="1286328600">2010-10-06 01:30</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/164397" title="[KoDAk-OpenRaws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai 02 (MX 1280x720 x264 AAC).mkv">[KoDAk-OpenRaws] Ore no Imouto ga Konna ni Kawaii Wake ga Nai 02 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/164397.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:adb6e9b3e8f2e9aafd3ca9854188c137f0264d36&amp;dn=%5BKoDAk-OpenRaws%5D%20Ore%20no%20Imouto%20ga%20Konna%20ni%20Kawaii%20Wake%20ga%20Nai%2002%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">295.6 MiB</td>
+				<td class="text-center" data-timestamp="1286733480">2010-10-10 17:58</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/164829" title="[Zero-Raws] Nurarihyon no Mago - 15 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Nurarihyon no Mago - 15 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/164829.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:3184684d2ce9c6849209ceba4c770ddce2597a71&amp;dn=%5BZero-Raws%5D%20Nurarihyon%20no%20Mago%20-%2015%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">425.0 MiB</td>
+				<td class="text-center" data-timestamp="1286884860">2010-10-12 12:01</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/164885" title="[Zero-Raws] Hyakka Ryouran Samurai Girls - 02 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Hyakka Ryouran Samurai Girls - 02 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/164885.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:668a71c03ce72d62942615e829150f5593cfcf2b&amp;dn=%5BZero-Raws%5D%20Hyakka%20Ryouran%20Samurai%20Girls%20-%2002%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">376.8 MiB</td>
+				<td class="text-center" data-timestamp="1286898240">2010-10-12 15:44</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/164923" title="[KoDAk-OpenRaws] Hyakka Ryouran Samurai Girls 02 (MX 1280x720 x264 AAC).mkv">[KoDAk-OpenRaws] Hyakka Ryouran Samurai Girls 02 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/164923.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:ec4dce662a08aa089bd7f3419ade64cc7d673893&amp;dn=%5BKoDAk-OpenRaws%5D%20Hyakka%20Ryouran%20Samurai%20Girls%2002%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">353.4 MiB</td>
+				<td class="text-center" data-timestamp="1286910960">2010-10-12 19:16</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/165273" title="[Zero-Raws] Tantei Opera Milky Holmes - 02 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Tantei Opera Milky Holmes - 02 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/165273.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:1399ad8bb2fd3673a1dc8faae83adab6a840f2c1&amp;dn=%5BZero-Raws%5D%20Tantei%20Opera%20Milky%20Holmes%20-%2002%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">485.9 MiB</td>
+				<td class="text-center" data-timestamp="1287059460">2010-10-14 12:31</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/165567" title="[Zero-Raws] To Aru Majutsu no Index II - 02 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] To Aru Majutsu no Index II - 02 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/165567.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:227b431afe240e94e7a3f76f926a32467eacf705&amp;dn=%5BZero-Raws%5D%20To%20Aru%20Majutsu%20no%20Index%20II%20-%2002%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">286.4 MiB</td>
+				<td class="text-center" data-timestamp="1287157620">2010-10-15 15:47</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/166657" title="[Zero-Raws] Nurarihyon no Mago - 16 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Nurarihyon no Mago - 16 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/166657.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:349b363061267f6ce89b1b9baf1f532787a3a623&amp;dn=%5BZero-Raws%5D%20Nurarihyon%20no%20Mago%20-%2016%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">481.1 MiB</td>
+				<td class="text-center" data-timestamp="1287490380">2010-10-19 12:13</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/167084" title="[Zero-Raws] Tantei Opera Milky Holmes - 03 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Tantei Opera Milky Holmes - 03 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/167084.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:db551e4b4ed0ac52a1dbd7f3c1c3ced60683fa3d&amp;dn=%5BZero-Raws%5D%20Tantei%20Opera%20Milky%20Holmes%20-%2003%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">554.0 MiB</td>
+				<td class="text-center" data-timestamp="1287663240">2010-10-21 12:14</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/168380" title="[Zero-Raws] Nurarihyon no Mago - 17 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Nurarihyon no Mago - 17 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/168380.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:eab4eeaabf4ca5eb1f7de2bac25d7de3888214a6&amp;dn=%5BZero-Raws%5D%20Nurarihyon%20no%20Mago%20-%2017%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">310.8 MiB</td>
+				<td class="text-center" data-timestamp="1288100040">2010-10-26 13:34</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/168966" title="[무닭-Raws] Tantei Opera Milky Holmes 04 (MX 1280x720 x264 AAC).mkv">[무닭-Raws] Tantei Opera Milky Holmes 04 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/168966.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:3f119b0606ca1704e76fb4cfc86a0bc47c94b23c&amp;dn=%5B%EB%AC%B4%EB%8B%AD-Raws%5D%20Tantei%20Opera%20Milky%20Holmes%2004%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">355.8 MiB</td>
+				<td class="text-center" data-timestamp="1288271700">2010-10-28 13:15</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/169020" title="[Zero-Raws] Tantei Opera Milky Holmes - 04 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Tantei Opera Milky Holmes - 04 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/169020.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:63c3430c04e112d9959340b82ceb0a2b4a72e6bb&amp;dn=%5BZero-Raws%5D%20Tantei%20Opera%20Milky%20Holmes%20-%2004%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">431.0 MiB</td>
+				<td class="text-center" data-timestamp="1288283220">2010-10-28 16:27</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/170335" title="[Zero-Raws] Nurarihyon no Mago - 18 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Nurarihyon no Mago - 18 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/170335.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:ce0b8a82d06a8861370f817c8d9780716ad53805&amp;dn=%5BZero-Raws%5D%20Nurarihyon%20no%20Mago%20-%2018%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">372.7 MiB</td>
+				<td class="text-center" data-timestamp="1288697940">2010-11-02 11:39</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/170891" title="[Zero-Raws] Tantei Opera Milky Holmes - 05 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Tantei Opera Milky Holmes - 05 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/170891.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:dddf7dd2218969728d70340b4efe77a66599b75a&amp;dn=%5BZero-Raws%5D%20Tantei%20Opera%20Milky%20Holmes%20-%2005%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">458.3 MiB</td>
+				<td class="text-center" data-timestamp="1288893000">2010-11-04 17:50</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/171586" title="[Zero-Raws] Ore no Imouto - 06 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Ore no Imouto - 06 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/171586.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:139a04791706355df6d8bdcd26d5d27106537ed9&amp;dn=%5BZero-Raws%5D%20Ore%20no%20Imouto%20-%2006%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">257.8 MiB</td>
+				<td class="text-center" data-timestamp="1289133780">2010-11-07 12:43</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/172130" title="[Zero-Raws] Nurarihyon no Mago - 19 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Nurarihyon no Mago - 19 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/172130.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:d6d82cf9c80900b839ccca1974fb61c87d2f35a4&amp;dn=%5BZero-Raws%5D%20Nurarihyon%20no%20Mago%20-%2019%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">376.0 MiB</td>
+				<td class="text-center" data-timestamp="1289302920">2010-11-09 11:42</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/172672" title="[Zero-Raws] Tantei Opera Milky Holmes - 06 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Tantei Opera Milky Holmes - 06 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/172672.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:eada609ddefc2e9b86ddbb355856a3278995bb08&amp;dn=%5BZero-Raws%5D%20Tantei%20Opera%20Milky%20Holmes%20-%2006%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">427.8 MiB</td>
+				<td class="text-center" data-timestamp="1289509560">2010-11-11 21:06</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/172878" title="[Zero-Raws] To Aru Majutsu no Index II  - 06 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] To Aru Majutsu no Index II  - 06 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/172878.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:e6439c72a869ad869e273fb051c10f98c2a1cacd&amp;dn=%5BZero-Raws%5D%20To%20Aru%20Majutsu%20no%20Index%20II%20%20-%2006%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">366.0 MiB</td>
+				<td class="text-center" data-timestamp="1289575080">2010-11-12 15:18</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/172971" title="[KoDAk-OpenRaws] To Aru Majutsu no Index II - 06 (MX 1280x720 x264 AAC).mkv">[KoDAk-OpenRaws] To Aru Majutsu no Index II - 06 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/172971.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:266eccc945688286eb3dd2f39e5f9f612b5b3b42&amp;dn=%5BKoDAk-OpenRaws%5D%20To%20Aru%20Majutsu%20no%20Index%20II%20-%2006%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">296.9 MiB</td>
+				<td class="text-center" data-timestamp="1289611140">2010-11-13 01:19</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/173460" title="[KoDAk-OpenRaws] Tantei Opera Milky Holmes - 06 (MX 1280x720 x264 AAC).mkv">[KoDAk-OpenRaws] Tantei Opera Milky Holmes - 06 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/173460.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:abf50eadbaf893c9fe900e4fcb540da2351488a3&amp;dn=%5BKoDAk-OpenRaws%5D%20Tantei%20Opera%20Milky%20Holmes%20-%2006%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">417.7 MiB</td>
+				<td class="text-center" data-timestamp="1289752500">2010-11-14 16:35</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="success">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/173909" title="[Zero-Raws] Nurarihyon no Mago - 20 (MX 1280x720 x264 AAC).mkv">[Zero-Raws] Nurarihyon no Mago - 20 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/173909.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:09055071b780d63aa2fe2b5a346707fa2115e8a5&amp;dn=%5BZero-Raws%5D%20Nurarihyon%20no%20Mago%20-%2020%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">403.1 MiB</td>
+				<td class="text-center" data-timestamp="1289905620">2010-11-16 11:07</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">1</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/173996" title="[KoDAk-OpenRaws] Nurarihyon no Mago - 20 (MX 1280x720 x264 AAC).mkv">[KoDAk-OpenRaws] Nurarihyon no Mago - 20 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/173996.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:aae083bd223e990a5d644fadd859d795d35bb668&amp;dn=%5BKoDAk-OpenRaws%5D%20Nurarihyon%20no%20Mago%20-%2020%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">290.6 MiB</td>
+				<td class="text-center" data-timestamp="1289924640">2010-11-16 16:24</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+			<tr class="default">
+				<td>
+					<a href="https://nyaa.si/?c=1_4" title="Anime - Raw">
+						<img src="static/img/icons/nyaa/1_4.png" alt="Anime - Raw" class="category-icon">
+					</a>
+				</td>
+				<td colspan="2">
+					<a href="https://nyaa.si/view/174066" title="[KoDAk-OpenRaws] Hyakka Ryouran Samurai Girls - 07 (MX 1280x720 x264 AAC).mkv">[KoDAk-OpenRaws] Hyakka Ryouran Samurai Girls - 07 (MX 1280x720 x264 AAC).mkv</a>
+				</td>
+				<td class="text-center">
+					<a href="https://nyaa.si/download/174066.torrent"><i class="fa fa-fw fa-download"></i></a>
+					<a href="magnet:?xt=urn:btih:af7f32688698776e5a9bf56fc867e1c0c6dc4ab3&amp;dn=%5BKoDAk-OpenRaws%5D%20Hyakka%20Ryouran%20Samurai%20Girls%20-%2007%20%28MX%201280x720%20x264%20AAC%29.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"><i class="fa fa-fw fa-magnet"></i></a>
+				</td>
+				<td class="text-center">387.7 MiB</td>
+				<td class="text-center" data-timestamp="1289953020">2010-11-17 00:17</td>
+
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+				<td class="text-center">0</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+<div class="center">
+	<div class="pagination-page-info">Displaying results 601-675 out of 865 results.<br>
+Please refine your search results if you can't find what you were looking for.</div>
+	<ul class="pagination"><li class="previous"><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=downloads&amp;o=desc&amp;p=8">&laquo;</a></li><li><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=downloads&amp;o=desc">1</a></li><li><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=downloads&amp;o=desc&amp;p=2">2</a></li><li class="disabled"><a>...</a></li><li><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=downloads&amp;o=desc&amp;p=7">7</a></li><li><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=downloads&amp;o=desc&amp;p=8">8</a></li><li class="active"><a>9</a></li><li><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=downloads&amp;o=desc&amp;p=10">10</a></li><li><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=downloads&amp;o=desc&amp;p=11">11</a></li><li><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=downloads&amp;o=desc&amp;p=12">12</a></li><li class="next"><a href="https://nyaa.si/?f=0&amp;c=1_4&amp;q=%22Raws%5D%22+%22%28MX+1280x720+x264+AAC%29%22+-mp4&amp;s=downloads&amp;o=desc&amp;p=10">&raquo;</a></li></ul>
+</div>
+		</div> <!-- /container -->
+
+		<footer style="text-align: center;">
+			<p>Dark Mode: <a href="index.html?f=0&amp;c=1_4&amp;q=&quot;Raws]&quot;+&quot;(MX+1280x720+x264+AAC)&quot;+-mp4&amp;s=downloads&amp;o=desc&amp;p=9#" id="themeToggle">Toggle</a></p>
+			<p>Commit: <a href="https://github.com/nyaadevs/nyaa/tree/97c32a483f2e5c553b8a01e147d441b06b48a195">97c32a4</a></p>
+		</footer>
+	</body>
+</html>
